@@ -1,10 +1,10 @@
-baseURL = "https://braindump.jethro.dev/"
+baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
-title = "Jethro's Braindump"
+title = "Darrell's Braindump"
 theme = "cortex"
 
 [params]
-email = "jethrokuan95@gmail.com"
+email = "hacknightly@gmail.com"
 footer = "Icon by Freepik. Built with ♥ with Org-mode and Hugo."
 
 [markup]

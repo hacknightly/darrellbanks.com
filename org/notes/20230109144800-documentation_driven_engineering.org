@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       3054B30F-1993-4E9A-810D-A6CE50997DB6
+:END:
+#+title: Documentation Driven Engineering
+
+- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
+
+# When code changes, so should documentation
+
+It's an age-old addage that code should be self-documenting. But is that just
+a well-intentioned urban myth?

@@ -1,0 +1,90 @@
+#+title: Tasks for Changeset.io project
+
+* Changeset Tasks
+** TODO allow custom attribute typeahead with https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
+** DONE allow custom attribute comparisons with @@
+** TODO match gitstream coverage  https://docs.gitstream.cm/examples/
+** TODO handle non-visible email redirects (when a user hides email on github)
+** Template Example
+** Stat
+- avg time to close: avg(open_duration)
+- total merges: count(merge events for this repo)
+- total commits: count(commits for prs in this repo)
+- total additions: count(additions for prs in this repo)
+- total removals: count(removals for prs in this repo)
+- total changes: count(additions + removals for prs in this repo)
+- total comments: count(comment events for this repo)
+- most modified file: look at all prs, look at files, count file touches
+- most modified directory: look at all prs, look at files, break into directory, create counts
+- total workflow runs: count(pull_request_events_workflows for this repo)
+- most run workflow: (count pull_request_events_workflows uuid for this repo)
+- total closed prs: (count where state is closed and no merged_by)
+- unmerged commits: (count where state is closed and no merged_by, total commits)
+- total failed checks: (count all prs, all failed checks)
+- most failed check: (count all prs, all failed checks uuid)
+- total successchecks: (count all prs, all success checks)
+- most success check: (count all prs, all success checks uuid)
+Author: {{author}}
+
+---
+
+Approvers: {{approvers | join(', @')}}
+
+---
+
+Body: {{body}}
+
+---
+
+Assignees: {{assignees | join(', @')}}
+
+---
+
+base: {{base}}
+
+---
+
+changes_requested_by: {{changes_requested_by | join(', @')}}
+
+---
+
+draft: {{draft}}
+
+---
+
+head: {{head}}
+
+---
+
+labels: {{labels}}
+
+---
+
+locked: {{is_locked}}
+
+---
+
+merged: {{is_merged}}
+
+---
+
+merged by: @{{merged_by}}
+
+---
+
+milestone: {{milestone}}
+
+---
+
+number: {{number}}
+
+---
+
+reviewers: {{requested_reviewers | join(', @')}}
+** TODO allow custom attribute typeahead with https://developer.mozilla.org/en-US/docs/Web/HTML/Element/datalist
+** TODO cookie consent https://github.com/brainsum/cookieconsent
+** TODO setup atlassian status page
+** TODO add ability to create checks with workflows
+** TODO add some/all matching to label list
+** TODO remove repos from stripe on termination
+** Todo fix "commits" entity
