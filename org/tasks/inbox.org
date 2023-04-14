@@ -1,3 +1,6 @@
 #+title: My Inbox
-
-* TODO Look into AWK
+* TODO 3 days, 3 months, 3 years - thinking about software longevity
+* TODO look deeper into these techs 
+** NLTK
+** Matplotlib
+* TODO look into hosted ML apis like https://evoke-app.com/docs 

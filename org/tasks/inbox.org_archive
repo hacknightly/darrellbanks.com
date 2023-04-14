@@ -1,0 +1,18 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/hacknightly/Dropbox/darrellbanks.com/org/tasks/inbox.org
+
+
+* DONE fix 404 page 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-01-22 Sun 19:46
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+#+begin_src js
+  console.log('foo')
+#+end_src
+
