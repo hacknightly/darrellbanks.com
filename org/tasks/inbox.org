@@ -1,6 +1,4 @@
 #+title: My Inbox
-* TODO 3 days, 3 months, 3 years - thinking about software longevity
-* TODO look deeper into these techs 
-** NLTK
-** Matplotlib
-* TODO look into hosted ML apis like https://evoke-app.com/docs 
+* TODO Unified, enterprise search: Combined search for Github, Jira, GDocs, etc.. 
+* TODO discovery threshold in UX patterns
+* TODO what are some of the "laws" of AIUX? Are there any yet?

@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       6F28FA24-0156-47D8-9064-E56594696734
+:END:
+#+title: On software longevity
+
+- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]]
+
+Sometimes I wish I could go back and see where all of my old code has gone. Surely some
+of it has been discarded.
+
+Some is likely in Github limbo, sitting in a repository with an
+ancient last commit timestamp.
+
+After a decade in the industry, though, there must be teams out there
+who have the displeasure of working with code I wrote years ago.
+
+I've ideated with a mental model for thinking about the short,
+medium, and long-term scales of aging software; 3 days, 3 months, and 3 years.
+
+Why 3? Mainly because it feels uncomfortable, but within reason
+
+3 days feels close. What happens to the software 3 days from now is almost
+instantly impactful to me.
+
+3 months feels out of reach individually, but a business lives by the quarter.
+New teammates will join, pritorities will shift, and projects will grow.
+
+Will the code I'm writing, or the process I'm introducing today
+be more helpful or more of a roadblock when those events occur?
+
+3 years may as well be 100 years. Technologies will change, my 
+framework choices will be outdated, and I might not even be
+on the same project.
+
+The same question applies.
