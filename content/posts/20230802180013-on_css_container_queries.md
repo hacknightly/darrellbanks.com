@@ -5,7 +5,7 @@ draft = false
 +++
 
 tags
-: [Engineering]({{< relref "../../../../Library/CloudStorage/Dropbox/darrellbanks.com/org/notes/20230109144724-engineering.md" >}}),[CSS]({{< relref "../../../../Library/CloudStorage/Dropbox/darrellbanks.com/org/notes/20230802180753-css.md" >}})
+: [Engineering]({{< relref "20230109144724-engineering.md" >}}),[CSS]({{< relref "20230802180753-css.md" >}})
 
 Keeping up with modern CSS can be a challenge. As a CSS practitioner for the better part of a decade,
 revisiting the spec to find new and emerging concepts can feel like I've missed a century.
