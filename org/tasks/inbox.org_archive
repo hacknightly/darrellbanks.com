@@ -66,3 +66,155 @@ Archived entries from file /Users/hacknightly/Dropbox/darrellbanks.com/org/tasks
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+* DONE capture some feedback for Jake 
+SCHEDULED: <2023-06-21 Wed>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-22 Thu 09:27
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+
+* DONE Add OIDC role for prod bucket
+SCHEDULED: <2023-06-22 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Change chatbot staging deploy mechanism
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Add chatbot production deploy mechanism
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Add DNS record for serena.rvohealth.io
+SCHEDULED: <2023-06-22 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE change   serena-staging-workflow to serena-deployment-workflow 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Add CORS for staging/prod env
+SCHEDULED: <2023-06-22 Thu>
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE alert team to new domains
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE document staging process
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-06-26 Mon 10:34
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE move playground repo to Github 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-05 Wed 11:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Preamp testing 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-05 Wed 11:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** Preamp adds you to a specific audience based on attributes targeted in "Traffic Flows"
+*** audienceId: "6pUZCGT44l8JYJoyVsmfsE"
+*** audienceName: "IDM - HL - Sticky Embedded Email Capture - Desktop"
+** Audiences are able to be assigned using pre-defined "Rule Lists"
+*** example: firstRequest.url [is in] [HL-list-of-urls]
+*** example: currentRequest.url [is not in] [HL-list-of-excluded-urls]
+
+* DONE update Smartsheet w/ new estimates 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-05 Wed 11:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+  
+
+* DONE July Sprint Review slides 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-13 Thu 10:46
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE [[https://blinpete.github.io/wiki-graph/?lang=en&wordle=&query=][graph view for wikipedia]]  
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-13 Thu 10:46
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE myr
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-31 Mon 15:10
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** Pros
+*** was able to get a broader perspective on the company via Marketplace / AI
+** Cons
+*** communication styles need to be tailored for the given audience
+
+* TODO Hook @brandownbrown up with details on Page Summary 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-31 Mon 15:10
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: TODO
+:END:
+
+* DONE Hook @brandownbrown up with details on Page Summary 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-07-31 Mon 15:10
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:

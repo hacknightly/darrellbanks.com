@@ -1,4 +1,7 @@
 #+title: My Inbox
-* TODO Unified, enterprise search: Combined search for Github, Jira, GDocs, etc.. 
-* TODO discovery threshold in UX patterns
-* TODO what are some of the "laws" of AIUX? Are there any yet?
+* TODO https://www.makeuseof.com/wikipedia-in-microsoft-word/ 
+* TODO https://www.producthunt.com/products/crumble-3 good ideas here 
+* TODO https://play.google.com/store/apps/details?id=work.techlabs.qwikipedia&ref=producthunt interesting comparisons 
+* TODO https://wikinav.toolforge.org/?language=en&title=Chocolate interesting data 
+* TODO organize, discovery, and pull insights out of Wikipedia 
+* TODO https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research 
