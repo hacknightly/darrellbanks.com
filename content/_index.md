@@ -7,7 +7,7 @@ draft = false
 
 # Hi! {#hi}
 
-I'm [Darrell (duh-rell)](https:/darrellbanks.com/), and you have come across my publicly accessible
+I'm [Darrell (duh-rell)](https://darrellbanks.com/), and you have come across my publicly accessible
 notes where I dump all of my thoughts for the world to see.
 
 As this site reflects my fleeting notes, random thoughts and scribbles it is very likely to be a mess

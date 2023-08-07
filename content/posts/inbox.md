@@ -20,3 +20,6 @@ draft = false
 
 
 ## <span class="org-todo todo TODO">TODO</span> <https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research> {#https-en-dot-wikipedia-dot-org-wiki-wikipedia-wikipedia-signpost-2023-07-17-recent-research}
+
+
+## <span class="org-todo done DONE">DONE</span> Setup a meeting w/ Josh Shefler {#setup-a-meeting-w-josh-shefler}

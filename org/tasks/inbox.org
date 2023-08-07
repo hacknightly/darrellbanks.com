@@ -1,7 +1,9 @@
 #+title: My Inbox
-* TODO https://www.makeuseof.com/wikipedia-in-microsoft-word/ 
-* TODO https://www.producthunt.com/products/crumble-3 good ideas here 
-* TODO https://play.google.com/store/apps/details?id=work.techlabs.qwikipedia&ref=producthunt interesting comparisons 
-* TODO https://wikinav.toolforge.org/?language=en&title=Chocolate interesting data 
-* TODO organize, discovery, and pull insights out of Wikipedia 
-* TODO https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research 
+
+* TODO https://www.makeuseof.com/wikipedia-in-microsoft-word/
+* TODO https://www.producthunt.com/products/crumble-3 good ideas here
+* TODO https://play.google.com/store/apps/details?id=work.techlabs.qwikipedia&ref=producthunt interesting comparisons
+* TODO https://wikinav.toolforge.org/?language=en&title=Chocolate interesting data
+* TODO organize, discovery, and pull insights out of Wikipedia
+* TODO https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research
+* DONE Setup a meeting w/ Josh Shefler
