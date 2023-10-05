@@ -4,9 +4,6 @@ author = ["Darrell Banks"]
 draft = false
 +++
 
-tags
-: [Engineering]({{< relref "../../../../../../Dropbox/darrellbanks.com/org/notes/20230109144724-engineering.md" >}})
-
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some
 of it has been discarded.
 
