@@ -5,46 +5,16 @@ theme = "hugo-kiera"
 
 [params]
 date_format = "02 Jan 2006"
-tagline = "I sometimes write things."
+tagline = "I sometimes write things. They sometimes end up here."
 email = "hacknightly@gmail.com"
-footer = "Built with ♥ with Org-mode and Hugo."
 
 [author]
-    name = ""           #Author name
-    github = "hacknightly"         #Github username
-    gitlab = ""         #Gitlab username
-    linkedin = "darrell-banks-13058621"       #LinkedIn username
-    facebook = ""       #Facebook username
-    twitter = ""        #Twitter username
-    instagram = "skippysodrippy"      #Instagram username
-    stackoverflow = "hacknightly"  #StackOverflow username
-    devto = ""          #Dev.to username 
-
-[markup]
-  [markup.goldmark]
-    [markup.goldmark.extensions]
-      definitionList = true
-      footnote = true
-      linkify = true
-      strikethrough = true
-      table = true
-      taskList = true
-      typographer = true
-    [markup.goldmark.parser]
-      attribute = true
-      autoHeadingID = true
-    [markup.goldmark.renderer]
-      hardWraps = false
-      unsafe = true
-      xHTML = false
-
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = false
-    hl_Lines = ""
-    lineNoStart = 1
-    lineNos = false
-    lineNumbersInTable = true
-    noClasses = true
-    style = "friendly"
-    tabWidth = 4
+    name = "Darrell Banks"
+    github = "hacknightly"
+    gitlab = ""
+    linkedin = "darrell-banks-13058621"      
+    facebook = "" 
+    twitter = ""   
+    instagram = "skippysodrippy"
+    stackoverflow = "users/541098/hacknightly"
+    devto = ""
