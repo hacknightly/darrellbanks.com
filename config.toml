@@ -1,7 +1,7 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
 title = "Darrell's Braindump"
-theme = "kiera"
+theme = "hugo-kiera"
 
 [params]
 tagline = "I sometimes write things."
