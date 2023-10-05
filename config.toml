@@ -4,6 +4,7 @@ title = "Darrell's Braindump"
 theme = "hugo-kiera"
 
 [params]
+date_format = "02 Jan 2006"
 tagline = "I sometimes write things."
 email = "hacknightly@gmail.com"
 footer = "Built with ♥ with Org-mode and Hugo."
