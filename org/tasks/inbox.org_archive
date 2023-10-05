@@ -218,3 +218,72 @@ SCHEDULED: <2023-06-22 Thu>
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+* DONE Add conversationID to all chats in Serena
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-06 Wed 10:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* TODO list some interesting startup ideas
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-06 Wed 10:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: TODO
+:END:
+** terraform for ai
+** retool for ai 
+** DONE Jupyter style notebook that integrates with everything (this is basically just Coda or Notion)
+*** https://cloverapp.com/?ref=producthunt
+
+* DONE Fix the Serena article summary error 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-06 Wed 13:44
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* PROGRESS Register for Netlify Compose 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-06 Wed 13:45
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: PROGRESS
+:END:
+
+* DONE test access to DEV/QA achieve environments 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-09-14 Thu 10:49
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** Access was successful
+
+* DONE Update Achieve w/ Docker documentation
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-02 Mon 15:47
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE why not learn some Rust? 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-02 Mon 15:47
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Update achieve DACI with alternative options from comments 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-02 Mon 15:47
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:

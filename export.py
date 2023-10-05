@@ -3,7 +3,7 @@
 import glob
 from pathlib import Path
 
-files = glob.glob("org/**/*.org")
+files = glob.glob("org/posts/*.org")
 
 with open('build.ninja', 'w') as ninja_file:
     ninja_file.write("""

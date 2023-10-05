@@ -1,9 +1,29 @@
-#+title: My Inbox
+#+TITLE: MY INBOX
 
-* TODO https://www.makeuseof.com/wikipedia-in-microsoft-word/
-* TODO https://www.producthunt.com/products/crumble-3 good ideas here
-* TODO https://play.google.com/store/apps/details?id=work.techlabs.qwikipedia&ref=producthunt interesting comparisons
-* TODO https://wikinav.toolforge.org/?language=en&title=Chocolate interesting data
-* TODO organize, discovery, and pull insights out of Wikipedia
-* TODO https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2023-07-17/Recent_research
-* DONE Setup a meeting w/ Josh Shefler
+* TODO write about scroll-snap-type
+* TODO add Magit keybindings 
+* TODO get access to RA datadog 
+* TODO Why not learn some C++/WebGL/WASM? 
+* TODO Why not learn about the [[https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code/][Chromium]] codebase? 
+* TODO Add Insomnia library for Achieve routes
+:LOGBOOK:
+CLOCK: [2023-10-04 Wed 11:27]--[2023-10-04 Wed 11:52] =>  0:25
+CLOCK: [2023-10-04 Wed 10:54]--[2023-10-04 Wed 11:19] =>  0:25
+CLOCK: [2023-10-04 Wed 10:16]--[2023-10-04 Wed 10:41] =>  0:25
+CLOCK: [2023-10-03 Tue 14:18]--[2023-10-03 Tue 14:43] =>  0:25
+CLOCK: [2023-10-03 Tue 13:44]--[2023-10-03 Tue 14:09] =>  0:25
+CLOCK: [2023-10-03 Tue 11:01]--[2023-10-03 Tue 11:26] =>  0:25
+:END:
+* NOTE Achieve Microservices 
+** The coaching clients interact with [[https://github.com/rvohealth/coaching-achievements][coaching achievements]] proxy to send events
+** [[https://github.com/rvohealth/realappeal-esra][ESRA]] code is owned and operated by us
+** [[https://www.lagomframework.com/documentation/1.4.x/scala/IntroGetStarted.html][Lagom]] is where the project derives its folder structure (ie achieve-api, achieve-impl)  
+** Play framework provides the `withUser` function for authorization
+** Questions
+*** What does reserving a form id do in incentives?
+
+
+
+
+
+
