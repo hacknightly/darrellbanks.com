@@ -1,18 +1,6 @@
-+++
-title = "Index"
-author = ["Darrell Banks"]
-type = "index"
-draft = false
-+++
+---
+title: You don't start out writing good stuff
+description: The hallway smelt of boiled cabbage and old rag mats.
+---
 
-# Hi! {#hi}
-
-I'm [Darrell (duh-rell)](https://darrellbanks.com/), and you have come across my publicly accessible
-notes where I dump all of my thoughts for the world to see.
-
-As this site reflects my fleeting notes, random thoughts and scribbles it is very likely to be a mess
-and hard to navigate.
-
-If you dare try and dig into my brain dump, feel free to start at the [full index](/posts/)
-
-Have fun!
+The hallway smelt of boiled cabbage and old rag mats. At one end of it a coloured poster, too large for indoor display, had been tacked to the wall. It depicted simply an enormous face, more than a metre wide: the face of a man of about forty-five, with a heavy black moustache and ruggedly handsome features. Winston made for the stairs. It was no use trying the lift. 
