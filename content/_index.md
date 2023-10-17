@@ -1,5 +1,5 @@
 ---
-title: Musings on engineering, life, and personal renaissance.
+title: Musings of a constant personal renaissance
 description: A place for me to ponder and share.
 ---
 
