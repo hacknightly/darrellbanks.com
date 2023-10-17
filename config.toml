@@ -1,7 +1,7 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
 title = "Darrell's Braindump"
-theme = "hugo-winston"
+theme = "hugo-winston-theme"
 
 [params]
   google_analytics_id = ""
