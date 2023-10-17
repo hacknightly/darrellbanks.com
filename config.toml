@@ -1,8 +1,11 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
-title = "Darrell's Braindump"
+title = "Darrell Banks"
 theme = "hugo-winston-theme"
 
+[author]
+  image = "https://gravatar.com/userimage/122379490/9ee37c1a42544dbcfac88cfea46eade8.jpeg?size=256"
+ 
 [params]
   google_analytics_id = ""
   twitter_handle = "@hacknightly"
