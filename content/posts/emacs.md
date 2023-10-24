@@ -1,7 +1,7 @@
 +++
 title = "Why I Still Use Emacs"
 author = ["Darrell Banks"]
-date = 2023-10-01T14:32:00-04:00
+date = 2023-10-24T14:32:00-04:00
 draft = false
 +++
 
