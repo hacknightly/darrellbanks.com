@@ -1,0 +1,22 @@
+:PROPERTIES:
+:ID:       B7478D2A-B3A0-4F6B-A2A1-3BE040FAB4C1
+:END:
+#+title: Why I Still Use Emacs
+
+- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
+
+# The Beginning
+It all began with ergonomics and a desire to keep my hands on the keyboard as much as possible
+
+Started with Spacemacs which lit the torch and guided my way
+
+# Why 
+Emacs has become more than a text editor for me. It's a lifestyle.
+
+The ability to combine my note taking, task management, and programming has been a game-changer. Less context switching.
+
+More minimal when it comes to alerts, plugins, pop-ups, etc... Feels like working in Zen mode.
+
+
+
+

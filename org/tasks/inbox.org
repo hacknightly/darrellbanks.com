@@ -1,9 +1,14 @@
 #+TITLE: MY INBOX
 
-* TODO add Magit keybindings 
-* TODO Why not learn about the [[https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code/][Chromium]] codebase? 
+* TODO Setup ai products frontend bucket
+* TODO Setup ai products Cloudfront distribution
+* TODO Setup ai products circle config
+* TODO Draft a few concepts for tech talks
+* TODO Why not learn about the [[https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code/][Chromium]] codebase?
 * TODO Setup Trezor/BTC on my computer
+* TODO write a Rust / WASM hello world
+* TODO check out the TC39 proposals https://tc39.es/
+* TODO continue the shader book
 * NOTE https://www.educative.io/answers/3-secrets-behind-single-div-css-art
-* NOTE Figma for discreet simulation modeling  
-* NOTE https://r-simmer.org/articles/simmer-01-introduction  
-* TODO check out the TC39 proposals https://tc39.es/ 
+* NOTE Capture - Keep what resonates  Organize - Save for actionability  Distill - Find the essence  Express - Show your work
+* TODO Review questions for Eng Manager interview 

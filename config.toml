@@ -1,6 +1,6 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
-title = "Darrell Banks"
+title = "DB"
 theme = "hugo-winston-theme"
 
 [params]
