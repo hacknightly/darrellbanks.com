@@ -1,7 +1,5 @@
 #+title: On software longevity
 
-- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]]
-
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some
 of it has been discarded.
 

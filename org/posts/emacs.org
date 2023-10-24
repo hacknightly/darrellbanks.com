@@ -1,7 +1,5 @@
 #+title: Why I Still Use Emacs
 
-- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
-
 * The Ergonomics Bug
 
 My Emacs journey began with one simple desire; to make ergonomics a first-class

@@ -2,7 +2,6 @@
 title = "On software longevity"
 author = ["Darrell Banks"]
 draft = false
-date = 2023-08-18T21:10:00+07:00
 +++
 
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some

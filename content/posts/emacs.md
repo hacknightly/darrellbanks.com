@@ -4,10 +4,6 @@ author = ["Darrell Banks"]
 draft = false
 +++
 
-tags
-: [Engineering]({{< relref "../../../../../../Dropbox/darrellbanks.com/org/notes/20230109144724-engineering.md" >}})
-
-
 ## The Ergonomics Bug {#the-ergonomics-bug}
 
 My Emacs journey began with one simple desire; to make ergonomics a first-class
