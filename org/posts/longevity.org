@@ -1,3 +1,9 @@
+---
+categories = ['Engineering']
+date = '2023-10-01'
+---
+
+
 #+title: On software longevity
 
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some

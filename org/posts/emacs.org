@@ -1,3 +1,8 @@
+---
+categories = ['Engineering', 'Emacs']
+date = '2023-10-24'
+---
+
 #+title: Why I Still Use Emacs
 
 * The Ergonomics Bug
