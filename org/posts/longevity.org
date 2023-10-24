@@ -1,10 +1,5 @@
----
-categories = ['Engineering']
-date = '2023-10-01'
----
-
-
 #+title: On software longevity
+#+date: 10-01-2023
 
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some
 of it has been discarded.
