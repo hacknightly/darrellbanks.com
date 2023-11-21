@@ -1,0 +1,55 @@
+* Tasks
+** Create a queue component
+:LOGBOOK:
+CLOCK: [2023-11-14 Tue 18:41]--[2023-11-14 Tue 19:06] =>  0:25
+:END:
+
+* SimFlow
+** Simple Simulations 
+*** Plain Text Based ([[https://nestedtext.org/en/latest/index.html][nested text]])
+*** Animations / Timing / Simulation
+*** JavaScript API for fine-tuning
+*** Objects
+**** Clock
+***** Time Units
+***** Time Format (count from zero, percent, time only, day only)
+***** Open Hours (start time each day, duration of day)
+***** Run Time (weeks, days, months, years)
+**** Entry Point
+***** Name
+***** Input Work Item Type?
+***** Inter-arrival time (minutes) Average
+***** Distribution
+***** [[https://www.simul8.com/support/help/doku.php?id=features:carbon][Carbon]] 
+***** [[https://www.simul8.com/support/help/doku.php?id=features:finance:financial_input_summary][Finance]] 
+**** Queue
+***** Name
+***** Capacity
+***** Is Infinite
+***** Number of items at start (start up)
+***** Shelf Life
+***** Min Wait Time
+***** Is Prioritized
+***** Is Lifo
+***** Is High Volume
+***** Segregate Results?
+***** Assemble?
+***** Graphic / Icon
+***** [[https://www.simul8.com/support/help/doku.php?id=features:carbon][Carbon]] 
+***** [[https://www.simul8.com/support/help/doku.php?id=features:finance:financial_input_summary][Finance]] 
+**** Resource (required before processing work)
+***** Name
+***** Number available
+****** Shift Dependent?
+****** Schedule Sheet? ([[https://www.simul8.com/support/help/doku.php?id=features:resourceschedule][csv]])
+**** Activity 
+***** Name
+***** Average Time
+***** Distribution
+***** Is High Volume
+***** [[https://www.simul8.com/support/help/doku.php?id=features:carbon][Carbon]] 
+***** [[https://www.simul8.com/support/help/doku.php?id=features:finance:financial_input_summary][Finance]] 
+***** Rounting In / Out
+***** Priority
+***** Graphic
+***** Resources

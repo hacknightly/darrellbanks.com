@@ -1,0 +1,41 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/dbanks/Library/CloudStorage/Dropbox/darrellbanks.com/org/projects/product-recommendation.org
+
+
+* DONE [[https://rvohealth.atlassian.net/browse/DAP-475][DAP-475]]  
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-21 Tue 10:59
+:ARCHIVE_FILE: ~/Library/CloudStorage/Dropbox/darrellbanks.com/org/projects/product-recommendation.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: product-recommendation
+:ARCHIVE_TODO: DONE
+:END:
+** Create draft API documentation
+:LOGBOOK:
+CLOCK: [2023-11-15 Wed 10:59]--[2023-11-15 Wed 11:24] =>  0:25
+:END:
+
+* DONE [[https://rvohealth.atlassian.net/browse/DAP-354][DAP-354]]
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-21 Tue 10:59
+:ARCHIVE_FILE: ~/Library/CloudStorage/Dropbox/darrellbanks.com/org/projects/product-recommendation.org
+:ARCHIVE_OLPATH: Tasks
+:ARCHIVE_CATEGORY: product-recommendation
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Add modal functionality to app
+:LOGBOOK:
+CLOCK: [2023-11-16 Thu 12:37]--[2023-11-16 Thu 13:02] =>  0:25
+:END:
+** Code up transition logic 
+
+* DONE Render in header and modal (portals, maybe?)
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-21 Tue 10:59
+:ARCHIVE_FILE: ~/Library/CloudStorage/Dropbox/darrellbanks.com/org/projects/product-recommendation.org
+:ARCHIVE_OLPATH: Problems to solve in product recommendation flow
+:ARCHIVE_CATEGORY: product-recommendation
+:ARCHIVE_TODO: DONE
+:END:

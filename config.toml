@@ -1,7 +1,7 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
 title = "DB"
-theme = "hugo-winston-theme"
+theme = "PaperMod"
 
 [params]
   google_analytics_id = ""

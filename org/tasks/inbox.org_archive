@@ -402,3 +402,215 @@ CLOSED: [2023-10-22 Sun 23:27]
 :ARCHIVE_CATEGORY: inbox
 :ARCHIVE_TODO: DONE
 :END:
+
+* DONE Setup ai products frontend bucket
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-25 Wed 14:29
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Setup ai products Cloudfront distribution
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-25 Wed 14:29
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Setup ai products circle config
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-25 Wed 14:29
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Review questions for Eng Manager interview 
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-25 Wed 14:29
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Setup Trezor/BTC on my computer
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-26 Thu 10:05
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Fix branch name (main) in circle config
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-27 Fri 12:49
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-26 Thu 10:20]--[2023-10-26 Thu 10:35] =>  0:15
+:END:
+
+* DONE Review strategies for custom check boxes
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-27 Fri 12:49
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-26 Thu 10:35]--[2023-10-26 Thu 10:38] =>  0:03
+:END:
+
+* DONE Implement custom checkbox
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-27 Fri 12:49
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+:LOGBOOK:
+CLOCK: [2023-10-26 Thu 11:10]--[2023-10-26 Thu 11:35] =>  0:25
+:END:
+
+* DONE Add test for checkbox
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-27 Fri 12:49
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Add Input component to AI products
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-30 Mon 15:13
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** DONE Add Input component
+** DONE Add Input story
+** DONE Add Input tests
+:LOGBOOK:
+CLOCK: [2023-10-30 Mon 14:28]--[2023-10-30 Mon 14:53] =>  0:25
+CLOCK: [2023-10-30 Mon 13:57]--[2023-10-30 Mon 14:22] =>  0:25
+:END:
+
+* TODO Why not learn about the [[https://www.chromium.org/developers/how-tos/getting-around-the-chrome-source-code/][Chromium]] codebase?
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-10-31 Tue 10:10
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: TODO
+:END:
+
+* DONE Learn some Erlang
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 10:21
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Learn some Rust
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 10:22
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* TODO write a Rust / WASM hello world
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-02 Thu 10:22
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: TODO
+:END:
+
+* TODO Teach ai to create datasets
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-13 Mon 09:27
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: TODO
+:END:
+
+* An energy monitoring/ reporting startup
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 09:39
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:END:
+
+https://energyelephant.com/careers
+
+
+* DONE Respond to Tommy's questions in Slack
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Learn some OCaml
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:19
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE check out the TC39 https://tc39.es/
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:19
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE [DAP-441] Create CTA Component
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:22
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Learn some Rust
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:22
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE Learn some shader programming techniques
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-14 Tue 13:22
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+* DONE 1:1 w/ Andy
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-17 Fri 09:16
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+** Any early review feedback?
+** Prevention onboarding help
+
+* DONE Update emacs file gist
+:PROPERTIES:
+:ARCHIVE_TIME: 2023-11-21 Tue 16:06
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:

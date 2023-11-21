@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       4EF22A00-8BE8-4F12-8DFF-493A86FFB28E
+:END:
+#+title: Single Div CSS Art
+
+- tags :: [[id:EADCAF8F-C367-4C23-BFC9-C527609195F6][CSS]] 
+
+source: https://www.educative.io/answers/3-secrets-behind-single-div-css-art
+source: https://a.singlediv.com/
+
+Single div CSS art is something I've always wanted to make an attempt at. Something
+about being able to create full imagary with just styles feels magical.

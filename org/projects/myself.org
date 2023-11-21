@@ -1,0 +1,8 @@
+* 2024 Goals
+** Become a distributed systems engineer
+*** Expertise in building & operating distributed systems, microservices, and globally-available systems at scale, including best-practices for availability, reliability, caching, and deployment.
+** Become a Typescript expert
+** Become a CSS expert
+** Build something awesome and fun
+** Make it to expert level LeetCode
+** Leave the country

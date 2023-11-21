@@ -3,7 +3,7 @@
 :END:
 #+title: On CSS Container Queries
 
-- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]],[[id:EADCAF8F-C367-4C23-BFC9-C527609195F6][CSS]] 
+- tags :: [[id:EADCAF8F-C367-4C23-BFC9-C527609195F6][CSS]]  
 
 Keeping up with modern CSS can be a challenge. As a CSS practitioner for the better part of a decade,
 revisiting the spec to find new and emerging concepts can feel like I've missed a century.
