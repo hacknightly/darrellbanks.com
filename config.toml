@@ -1,28 +1,9 @@
 baseURL = "https://darrellbanks.com/"
 languageCode = "en-us"
 title = "DB"
-theme = "PaperMod"
+theme = "stack"
 
-[params]
-  google_analytics_id = ""
-  twitter_handle = "@hacknightly"
-  showAuthorOnHomepage = true
-  showAuthorOnPosts = false
-  showIntroContentOnHomepage = true
-  showPostsOnHomepage = true
-  usePaginationOnHomepage = false
-  limitPostsOnHomepage = 10 # only used if usePaginationOnHomepage is false
-  sortPostsByDateOldestFirst = false
-  addDot = true
-  addFrame = true
-  highlightColor = '#7b16ff'
-  baseColor = "#ffffff"
-  baseOffsetColor = "#eaeaea"
-  headingColor = "#1c1b1d"
-  textColor = "#4e5157"
-  dotColor = "#7b16ff"
-  enableGoogleFonts = true 
-  googleFontsUrl = "https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap"
-  fontFamilyHeading = "Poppins"
-  fontFamilyParagraph = "Helvetica"
-  fontFamilyMonospace = "monospace"
+[params.sidebar.avatar]
+enabled = true
+local = false
+src = 'https://avatars.githubusercontent.com/u/1380897?v=4'

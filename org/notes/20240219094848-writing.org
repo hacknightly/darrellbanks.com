@@ -1,0 +1,5 @@
+:PROPERTIES:
+:ID:       5BA229D5-06FC-4804-976E-AC56937FEC84
+:END:
+#+title: Writing
+

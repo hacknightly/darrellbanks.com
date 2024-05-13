@@ -1,8 +1,20 @@
-* 2024 Goals
-** Become a distributed systems engineer
-*** Expertise in building & operating distributed systems, microservices, and globally-available systems at scale, including best-practices for availability, reliability, caching, and deployment.
-** Become a Typescript expert
-** Become a CSS expert
-** Build something awesome and fun
-** Make it to expert level LeetCode
-** Leave the country
+* Values
+** Personal Growth & Development
+** Empathy 
+** Education 
+** Equality 
+* Principles
+** Pursue Excellence 
+** Embrace failure 
+** Practice empathy 
+** Be a transformational leader 
+** Lead with love
+** When in doubt, execute 
+* My Purpose
+– What are my unique Talents?
+– How can I use my unique talents to serve others (such as family and community)
+– What gives me peak experiences and Joy?
+– What would I be doing if I had just 6 months to live?
+– What would I be doing, if I had all the time and money in the world?
+– What do I love to do?
+– What are the top values I believe in and uphold the most?

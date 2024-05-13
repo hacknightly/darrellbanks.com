@@ -1,9 +1,0 @@
-* Tasks
-* Problems to solve in product recommendation fhttps://github.com/adityatelange/hugo-PaperMod/low
-** Pre-amp placements with dynamic content
-*** NOT dynamic. Create an asset for each category and entry in preamp
-***** Can we use config.json to store all of the dynamic data?
-```
-entry: static-question
-based-on: DRIVER-QUIZ-Prod-Reco-Flow-Disclaimer-FirstQuarter--TopMiddle
-```

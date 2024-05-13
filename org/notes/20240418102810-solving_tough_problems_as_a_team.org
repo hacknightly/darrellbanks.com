@@ -1,0 +1,26 @@
+:PROPERTIES:
+:ID:       8D4CB330-34FB-41FC-A017-692F0711DF1B
+:END:
+#+title: Solving tough problems as a team
+
+- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
+
+While speaking with one of my staff+ colleagues recently, the topic of solving hard problems
+with an engineering team came up. There's an ethos amongst high-level engineers that a part
+of their job is to go off and solve hard problems in isolation, but that can often lead
+to the engineer being the only one on the team who has the context and knowledge to work
+in that area of the project.
+
+Is there a way to untangle large problems up front, such that they are approachable by
+an engineering team as opposed to a single engineer?
+
+* A good question to ask might be "why is this problem unapproachable by other engineers?"
+** Lack of documentation?
+** Unclear code paths?
+** Architectural/system knowledge gaps?
+** Tribal knowledge? (one man repository)
+
+* What about instead of doing the work, you create a draft PR with guidance? Sort of like a guided choose your own adventure experiment?
+** This is kind of like an open source model asking for contributions, but on a single problem set or feature.
+
+avaang

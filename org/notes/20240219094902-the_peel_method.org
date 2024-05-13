@@ -1,0 +1,12 @@
+:PROPERTIES:
+:ID:       76742C05-66DF-461F-95EF-DC659E726A86
+:END:
+#+title: The PEEL Method
+
+- tags :: [[id:5BA229D5-06FC-4804-976E-AC56937FEC84][Writing]] 
+
+Point. Evidence. Explain. Link.
+
+The PEEL method looks to strengthen the perusasiveness of writing by proving a framework
+for linking opinions with facts and evidence. I can see how this might be useful when writing technical documents that often
+contain opinions and anecdotes.
