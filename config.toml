@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "DB"
 theme = "stack"
 
+[params]
+mainSections = ['posts']
+
 [params.sidebar.avatar]
 enabled = true
 local = false
