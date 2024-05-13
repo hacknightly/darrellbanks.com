@@ -11,8 +11,8 @@ enabled = true
 local = false
 src = 'https://avatars.githubusercontent.com/u/1380897?v=4'
 
-[[widgets.homepage]]
+[[params.widgets.homepage]]
 type = "tag-cloud"
 
-[[widgets.homepage.params]]
+[[params.widgets.homepage.params]]
 limit = 10
