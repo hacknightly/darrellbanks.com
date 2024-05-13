@@ -13,6 +13,3 @@ src = 'https://avatars.githubusercontent.com/u/1380897?v=4'
 
 [[params.widgets.homepage]]
 type = "tag-cloud"
-
-[[params.widgets.homepage.params]]
-limit = 10
