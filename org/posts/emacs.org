@@ -1,5 +1,6 @@
 #+title: Why I Still Use Emacs
 #+date: 2023-10-24
+tags: engineering, emacs
 
 * The Ergonomics Bug
 
