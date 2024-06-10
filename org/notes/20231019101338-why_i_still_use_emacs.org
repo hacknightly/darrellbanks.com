@@ -5,7 +5,6 @@
 #+date: 2024-06-10
 #+hugo_custom_front_matter: :garden_tags '(emacs productivity ergonomics)
 #+hugo_custom_front_matter: :status growing 
-#+tags: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]][[id:811A413C-B35B-42E8-8C00-F7796FD3F439][ Ergonomics]] 
 
 * Why I Still Use Emacs
 ** The Ergonomics Bug
