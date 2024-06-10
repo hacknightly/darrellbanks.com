@@ -7,6 +7,9 @@ garden_tags = ["ai", "ux"]
 status = "seeding"
 +++
 
+tags
+: [AI]({{< relref "20230414092959-ai.md" >}}) [UX]({{< relref "20230414093032-ux.md" >}})
+
 We are living in the midst of the AI revolution.
 
 Every day, it seems like a new and exciting model or innovation is released to great fanfare.
