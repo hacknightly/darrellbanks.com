@@ -8,13 +8,13 @@ files = glob.glob("org/posts/*.org")
 with open('build.ninja', 'w') as ninja_file:
     ninja_file.write("""
 rule org2md
-  command = emacs --batch -l ~/.emacs -l publish.el --eval \"(darrell/publish \\"$in\\")"
+  command = emacs --batch -l ~/.emacs -l ~/Library/CloudStorage/Dropbox/darrellbanks.com/publish.el --eval \"(darrell/publish \\"$in\\")"
   description = org2md $in
 """)
     
     for f in files:
         path = Path(f)
-        output_file = f"content/posts/{path.with_suffix('.md').name}"
+        output_file = f"content/garden/{path.with_suffix('.md').name}"
         print([path, output_file])
         ninja_file.write(f"""
 build {output_file}: org2md {path}

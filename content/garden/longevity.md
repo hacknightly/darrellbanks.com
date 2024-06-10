@@ -5,8 +5,6 @@ date = 2023-10-01T14:32:00-04:00
 draft = false
 +++
 
-tags: engineering
-
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some
 of it has been discarded.
 

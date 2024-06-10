@@ -2,6 +2,7 @@
 
 (projectile-mode -1)
 (recentf-mode -1)
+(global-org-modern-mode -1)
 
 (defun darrell/publish (file)
   (with-current-buffer (find-file-noselect file)

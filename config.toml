@@ -1,15 +1,72 @@
-baseURL = "https://darrellbanks.com/"
+baseURL = "https://www.darrellbanks.com"
 languageCode = "en-us"
-title = "DB"
-theme = "stack"
+title = "My Digital Garden"
+theme = "hugo-digital-garden-theme"
+themesdir = "../../"
+copyright = "Darrell Banks ©"
+
 
 [params]
-mainSections = ['posts']
+  name = "Darrell Banks"
+  description = "Aspiring Polymath and Human Race Advocate"
+  initials = "DB"
+  googleAnalytics = ""
 
-[params.sidebar.avatar]
-enabled = true
-local = false
-src = 'https://avatars.githubusercontent.com/u/1380897?v=4'
+  [[params.social]]
+    name = "Github"
+    link = "https://github.com/hacknightly"
+    icon = "fab fa-github"
 
-[[params.widgets.homepage]]
-type = "tag-cloud"
+  [[params.social]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/darrell-banks-13058621/"
+    icon = "fab fa-linkedin-in"
+
+
+[menu]
+  [[menu.main]]
+    name = "Digital Garden"
+    url = "/garden/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "Library"
+    url = "/library/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+
+[taxonomies]
+  garden_tags = 'garden_tags'
+  project_tags = 'project_tags'
+  library_tags = 'library_tags'
+
+
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.goldmark.parser]
+    autoHeadingID = true
+    autoHeadingIDType = 'github'
+    wrapStandAloneImageWithinParagraph = true
+    [markup.goldmark.parser.attribute]
+      block = false
+      title = true
+  [markup.goldmark.extensions]
+    definitionList = true
+    footnote = true
+    linkify = true
+    strikethrough = true
+    table = true
+    taskList = true
+    typographer = true
+  [markup.highlight]
+    # Choose from https://xyproto.github.io/splash/docs/all.html
+    style = 'monokailight'

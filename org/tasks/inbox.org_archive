@@ -690,3 +690,80 @@ Added: [2024-04-29 Mon 10:37]
 https://docs.google.com/document/d/1Rz339Cek5QhETEjU2IQ2yANYIo4XtoZcwB2YH3OU2zQ/edit#heading=h.au35tzt1scyk
 
 https://docs.google.com/document/d/1Xi_MX-8lC0_LrC5RcLTrKbj9eFXUnnVRpL1Wrb_oi84/edit
+
+* 2024-05-09 Thursday
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-05-28 Tue 17:23
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_OLPATH: 2024/2024-05 May
+:ARCHIVE_CATEGORY: inbox
+:END:
+** NOTE Type Level Typescript :learning: 
++ TypeScript provides us with 5 main categories of types: primitive types, literal types, data structure types,
+  union types, and intersection types.
++ To get a better grasp of unions and intersections types, I'll need to cover a notion that's fundamental to Type-level TypeScript:
+  all types are sets. 
++ "unknown" is the topmost superset to which all other types/sets belong
++ "never" is the empty, bottom-level set, for example when trying to intersect `string` and `number`
++ Records like {[key: string]: boolean} can be created using the built-in Record generic: Record<string, boolean>
+Added: [2024-05-09 Thu 15:03]
+
+* 2024-05-13 Monday
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-05-28 Tue 17:23
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_OLPATH: 2024/2024-05 May
+:ARCHIVE_CATEGORY: inbox
+:END:
+** NOTE TS Tuples can have optional indices ie type Tuple = [string, number?] :TIL: 
+Added: [2024-05-13 Mon 14:42]
+
+* 2024-05-17 Friday
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-05-28 Tue 17:24
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_OLPATH: 2024/2024-05 May
+:ARCHIVE_CATEGORY: inbox
+:END:
+** TODO 1:1 w/ Andy :work: 
+- Getting more involved with interviews for the AI team
+- How to dip my toe into the Medicare space? Good point of contact?
+- Setting up some Q3/Q4 goals, will have more on that later
+Added: [2024-05-17 Fri 10:47]
+
+* NOTE as const in Typescript :learning: 
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-06-03 Mon 10:46
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: NOTE
+:END:
+Tells the compiler to narrow to the most specific type that it can
+Added: [2024-05-29 Wed 13:49]
+
+* DONE 1:1 w/ Andy :work: 
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-06-03 Mon 10:46
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- IVR Sync
+  - Mid July deadline for voice
+  - How should I be navigating this? Should I bring Cory up to speed
+    while expecting to transition into HM frontend?
+- What are your priorities for taking over Medicare?
+- Medicare FE work expectations
+  
+Added: [2024-05-31 Fri 09:31]
+
+* DONE Medicare Meeting :work: 
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-06-04 Tue 10:04
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/tasks/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+Added: [2024-06-03 Mon 13:27]
+** UHC-A = UHC Acquisition
+** AEP 9/15 early, 10/15 true deadline. 

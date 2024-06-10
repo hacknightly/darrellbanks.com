@@ -1,21 +1,17 @@
 #+TITLE: MY INBOX
+* NOTE Distributing over union types in TypeScript :notes: 
 
-* 2024
-** 2024-05 May
-*** 2024-05-02 Thursday
-**** TODO A workspace for learning :ideas: 
-Combines wikipedia, dictionary, flashcards, mind mapping into a fun experience
-Added: [2024-05-02 Thu 11:59]
-*** 2024-05-09 Thursday
-**** NOTE Type Level Typescript :learning: 
-+ TypeScript provides us with 5 main categories of types: primitive types, literal types, data structure types,
-  union types, and intersection types.
-+ To get a better grasp of unions and intersections types, I'll need to cover a notion that's fundamental to Type-level TypeScript:
-  all types are sets. 
-+ "unknown" is the topmost superset to which all other types/sets belong
-+ "never" is the empty, bottom-level set, for example when trying to intersect `string` and `number`
-+ Records like {[key: string]: boolean} can be created using the built-in Record generic: Record<string, boolean>
-Added: [2024-05-09 Thu 15:03]
-*** 2024-05-13 Monday
-**** NOTE TS Tuples can have optional indices ie type Tuple = [string, number?] :TIL: 
-Added: [2024-05-13 Mon 14:42]
+Using extends unknown will distribute logic over every member of a
+union type.
+
+```typescript
+type Duplicate<T> = [T, T];
+
+Duplicate<1|2|3> -> [1|2|3, 1|2|3]
+
+type DistributedDuplicate<T> = T extends unknown ? [T,T] : never;
+
+DistributedDuplicate<1|2|3> -> [1,1] | [2,2] | [3,3]
+```
+
+Added: [2024-06-07 Fri 15:06]

@@ -1,5 +1,5 @@
 +++
-title = "Why I Still Use Emacs"
+title = "Why I Still Use Emacs :engineering:emacs:"
 author = ["Darrell Banks"]
 date = 2023-10-24
 draft = false
