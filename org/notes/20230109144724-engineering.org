@@ -2,4 +2,3 @@
 :ID:       723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F
 :END:
 #+title: Engineering
-#+hugo_draft: true
