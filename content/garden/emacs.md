@@ -2,9 +2,9 @@
 title = "Why I Still Use Emacs"
 author = ["Darrell Banks"]
 date = 2024-06-10
-tags = ["emacs", "productivity", "ergonomics"]
 draft = false
-garden_tags = ["growing"]
+garden_tags = ["emacs", "productivity", "ergonomics"]
+status = "growing"
 +++
 
 ## Why I Still Use Emacs {#why-i-still-use-emacs}
