@@ -1,4 +1,9 @@
-* Why I Still Use Emacs :emacs:ergonomics:
+#+title: Why I Still Use Emacs
+#+date: 2024-06-10
+#+hugo_tags: emacs productivity ergonomics
+#+hugo_custom_front_matter: :garden_tags '(growing)
+
+* Why I Still Use Emacs
 ** The Ergonomics Bug
 
 My Emacs journey began with one simple desire; to make ergonomics a first-class

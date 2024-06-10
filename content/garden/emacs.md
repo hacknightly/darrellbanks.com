@@ -1,10 +1,13 @@
 +++
+title = "Why I Still Use Emacs"
 author = ["Darrell Banks"]
-tags = ["emacs", "ergonomics"]
+date = 2024-06-10
+tags = ["emacs", "productivity", "ergonomics"]
 draft = false
+garden_tags = ["growing"]
 +++
 
-## Why I Still Use Emacs <span class="tag"><span class="emacs">emacs</span><span class="ergonomics">ergonomics</span></span> {#why-i-still-use-emacs}
+## Why I Still Use Emacs {#why-i-still-use-emacs}
 
 
 ### The Ergonomics Bug {#the-ergonomics-bug}
