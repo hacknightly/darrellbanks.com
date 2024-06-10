@@ -1,14 +1,13 @@
 +++
-title = "Why I Still Use Emacs"
 author = ["Darrell Banks"]
-date = 2023-10-01T14:32:00-04:00
+tags = ["emacs", "ergonomics"]
 draft = false
 +++
 
-tags: engineering
+## Why I Still Use Emacs <span class="tag"><span class="emacs">emacs</span><span class="ergonomics">ergonomics</span></span> {#why-i-still-use-emacs}
 
 
-## The Ergonomics Bug {#the-ergonomics-bug}
+### The Ergonomics Bug {#the-ergonomics-bug}
 
 My Emacs journey began with one simple desire; to make ergonomics a first-class
 citizen in my work day.
@@ -33,7 +32,7 @@ That test run would become a life-changing journey into the world of modal editi
 note taking, productivity, and so much more.
 
 
-## Work At the Speed of Thought {#work-at-the-speed-of-thought}
+### Work At the Speed of Thought {#work-at-the-speed-of-thought}
 
 "Modal Editing" is a term used to describe text editing in different "modes".
 
@@ -57,7 +56,7 @@ This allows me to "work at the speed of thought" since the actions required to e
 switching.
 
 
-## Come For the Speed, Stay For the Productivity {#come-for-the-speed-stay-for-the-productivity}
+### Come For the Speed, Stay For the Productivity {#come-for-the-speed-stay-for-the-productivity}
 
 Learning how to work with a modal editor was a huge boost to my productivity, but Emacs comes with
 a killer feature which boosts productivity to unheard of levels; Org mode.

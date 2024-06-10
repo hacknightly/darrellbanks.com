@@ -1,8 +1,5 @@
-#+title: Why I Still Use Emacs 
-#+date: 2023-10-01T14:32:00-04:00
-tags: engineering
-
-* The Ergonomics Bug
+* Why I Still Use Emacs :emacs:ergonomics:
+** The Ergonomics Bug
 
 My Emacs journey began with one simple desire; to make ergonomics a first-class
 citizen in my work day. 
@@ -26,7 +23,7 @@ so I installed Spacemacs to give it a test run.
 That test run would become a life-changing journey into the world of modal editing,
 note taking, productivity, and so much more.
 
-* Work At the Speed of Thought
+** Work At the Speed of Thought
 
 "Modal Editing" is a term used to describe text editing in different "modes".
 
@@ -49,7 +46,7 @@ and typing one of those letters jumps me right there.
 This allows me to "work at the speed of thought" since the actions required to edit text take less context
 switching.
 
-* Come For the Speed, Stay For the Productivity
+** Come For the Speed, Stay For the Productivity
 
 Learning how to work with a modal editor was a huge boost to my productivity, but Emacs comes with
 a killer feature which boosts productivity to unheard of levels; Org mode.
