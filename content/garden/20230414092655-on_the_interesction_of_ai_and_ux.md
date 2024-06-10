@@ -3,7 +3,7 @@ title = "On the Interesction of AI and UX"
 author = ["Darrell Banks"]
 date = 2024-06-10
 draft = false
-garden_tags = [[["id:9C2E4D79-615B-4D4C-BA3C-1718977DC1E4"], ["AI"]], [["id:E03A68DA-A1EF-42C9-849C-A0AA370EEE64"], ["UX"]]]
+garden_tags = ["ai", "ux"]
 status = "seeding"
 +++
 
