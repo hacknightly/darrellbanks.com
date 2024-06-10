@@ -1,9 +1,15 @@
 +++
-title = "Why I Still Use Emacs"
 author = ["Darrell Banks"]
-date = 2023-10-24
 draft = false
 +++
+
+~~+~~
+title = "Why I Still Use Emacs"
+tags = ["emacs", "ergonomics"]
+date = 2024-02-02T04:14:54-08:00
+garden_tags = ["evergreen"]
+~~+~~
+
 
 ## The Ergonomics Bug {#the-ergonomics-bug}
 
