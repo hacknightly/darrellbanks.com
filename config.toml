@@ -1,8 +1,8 @@
 baseURL = "https://www.darrellbanks.com"
 languageCode = "en-us"
 title = "My Digital Garden"
-theme = "themes/hugo-digital-garden-theme"
-themesdir = "../../"
+theme = "hugo-digital-garden-theme"
+themesdir = "./themes"
 copyright = "Darrell Banks ©"
 
 
