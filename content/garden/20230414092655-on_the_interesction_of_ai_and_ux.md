@@ -4,7 +4,7 @@ author = ["Darrell Banks"]
 draft = false
 +++
 
-+#hugo_tags:[Engineering]({{< relref "20230109144724-engineering.md" >}})[ AI]({{< relref "20230414092959-ai.md" >}}) [UX]({{< relref "20230414093032-ux.md" >}})
++#tags: [Engineering]({{< relref "20230109144724-engineering.md" >}})[ AI]({{< relref "20230414092959-ai.md" >}}) [UX]({{< relref "20230414093032-ux.md" >}})
 
 We are living in the midst of the AI revolution.
 

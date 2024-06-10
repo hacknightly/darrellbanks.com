@@ -3,7 +3,7 @@
 :END:
 
 #+title: On the Interesction of AI and UX
-+#hugo_tags:[[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]][[id:9C2E4D79-615B-4D4C-BA3C-1718977DC1E4][ AI]] [[id:E03A68DA-A1EF-42C9-849C-A0AA370EEE64][UX]]  
++#tags: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]][[id:9C2E4D79-615B-4D4C-BA3C-1718977DC1E4][ AI]] [[id:E03A68DA-A1EF-42C9-849C-A0AA370EEE64][UX]]  
 
 We are living in the midst of the AI revolution.
 
