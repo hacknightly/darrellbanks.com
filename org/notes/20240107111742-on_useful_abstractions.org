@@ -2,6 +2,7 @@
 :ID:       C4A47F6E-9F2E-4313-8189-4E9F0FA5008C
 :END:
 #+title: On Useful Abstractions
+#+hugo_draft: true
 
 - tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]], [[id:902575EE-119F-4F7F-BF0F-AF1479E6030B][Principles]]  
 https://minimal.app/Z0ndOgmj

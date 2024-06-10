@@ -2,6 +2,7 @@
 :ID:       8D4CB330-34FB-41FC-A017-692F0711DF1B
 :END:
 #+title: Solving tough problems as a team
+#+hugo_draft: true
 
 - tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
 

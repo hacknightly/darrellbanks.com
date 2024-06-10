@@ -1,3 +1,0 @@
-* Goals
-** Create a culture around web components
-** Create a simpler platform for deploying frontends 

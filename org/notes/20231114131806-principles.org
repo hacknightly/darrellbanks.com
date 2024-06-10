@@ -2,6 +2,7 @@
 :ID:       902575EE-119F-4F7F-BF0F-AF1479E6030B
 :END:
 #+title: Principles
+#+hugo_draft: true
 
 - tags :: [[id:DCDF7171-E206-46AD-9A70-BDB9760E347D][Growth and Habits]] 
 

@@ -2,6 +2,7 @@
 :ID:       23B81617-356A-43D5-BEB0-7884E86B5E48
 :END:
 #+title: Erlang
+#+hugo_draft: true
 
 - tags :: [[id:698A141C-2A0C-493D-9B35-562E79089622][Programming Languages]] 
 

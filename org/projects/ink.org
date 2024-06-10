@@ -1,6 +1,0 @@
-* Notes
-** TODO A workspace for learning :ideas: 
-*** Combines wikipedia, dictionary, flashcards, mind mapping into a fun experience for learning.
-*** Allows users to create their own learning paths and share them with others.
-*** Track progress and provide feedback on how to improve learning. 
-* Tasks

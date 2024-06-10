@@ -1,12 +1,11 @@
-:PROPERTIES:
-:ID:       3054B30F-1993-4E9A-810D-A6CE50997DB6
-:END:
-#+title: Documentation Driven Engineering
-#+hugo_draft: true
++++
+title = "Documentation Driven Engineering"
+author = ["Darrell Banks"]
+draft = true
++++
 
-- tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]] 
-
-# When code changes, so should documentation
+tags
+: [Engineering]({{< relref "../../../../../../Dropbox/darrellbanks.com/org/notes/20230109144724-engineering.md" >}})
 
 It's an age-old addage that code should be self-documenting. But is that just
 a well-intentioned urban myth?
@@ -32,7 +31,7 @@ any code is written.
 In this part we're able to think about "why" we're building the things we're building, and
 do some early solutionizing in a code-free environment.
 
-I love using the [[https://www.atlassian.com/team-playbook/plays/daci][DACI]] model for very early, code-free solutionizing. It feels alot like
+I love using the [DACI](https://www.atlassian.com/team-playbook/plays/daci) model for very early, code-free solutionizing. It feels alot like
 community brainstorming.
 
 These early documents serve as the spring board for the real project documentation, and

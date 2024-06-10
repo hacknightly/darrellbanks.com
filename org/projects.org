@@ -1,0 +1,6 @@
+* Take steps [0%] :project: 
+:PROPERTIES: 
+:TRIGGER: next-sibling todo!(NEXT) scheduled!(copy)
+:ORDERED: t:END:
+** TODO Add entry
+Added: [2024-06-10 Mon 14:56]

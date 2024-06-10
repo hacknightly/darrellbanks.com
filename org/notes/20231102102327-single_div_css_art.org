@@ -2,6 +2,7 @@
 :ID:       4EF22A00-8BE8-4F12-8DFF-493A86FFB28E
 :END:
 #+title: Single Div CSS Art
+#+hugo_draft: true
 
 - tags :: [[id:EADCAF8F-C367-4C23-BFC9-C527609195F6][CSS]] 
 

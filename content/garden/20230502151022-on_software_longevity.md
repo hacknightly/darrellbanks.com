@@ -1,6 +1,11 @@
-#+title: On software longevity
-#+date: 2023-10-01T14:32:00-04:00
-tags: engineering
++++
+title = "On software longevity"
+author = ["Darrell Banks"]
+draft = true
++++
+
+tags
+: [Engineering]({{< relref "20230109144724-engineering.md" >}})
 
 Sometimes I wish I could go back and see where all of my old code has gone. Surely some
 of it has been discarded.
@@ -25,7 +30,7 @@ New teammates will join, pritorities will shift, and projects will grow.
 Will the code I'm writing, or the process I'm introducing today
 be more helpful or more of a roadblock when those events occur?
 
-3 years may as well be 100 years. Technologies will change, my 
+3 years may as well be 100 years. Technologies will change, my
 framework choices will be outdated, and I might not even be
 on the same project.
 

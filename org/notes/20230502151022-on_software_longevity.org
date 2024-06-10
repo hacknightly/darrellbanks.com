@@ -2,6 +2,8 @@
 :ID:       6F28FA24-0156-47D8-9064-E56594696734
 :END:
 
+#+hugo_draft: true
+
 #+title: On software longevity
 
 - tags :: [[id:723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F][Engineering]]
