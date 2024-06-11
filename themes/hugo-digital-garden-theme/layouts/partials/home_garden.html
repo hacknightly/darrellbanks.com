@@ -8,7 +8,7 @@
         </div>
         <div class="col-4">
           <p class="card-right">
-            {{ with .Params.status }} {{ if not (eq "plot") . }}
+            {{ with .Params.status }} {{ if not "plot" . }}
             <span class="card-date">{{ .Lastmod.Format "Jan 2, 2006" }} </span>
             {{ end }} {{ end }}
             <br />{{ partial "status.html" . }}
