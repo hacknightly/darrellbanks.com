@@ -1,9 +1,10 @@
 :PROPERTIES:
-:ID:       5BA229D5-06FC-4804-976E-AC56937FEC84
+:ID:       3DA6243F-8CD3-4EC1-9444-ED1395D1EFD7
 :END:
-#+date: 2024-06-10
+#+title: Productivity
 #+hugo_custom_front_matter: :garden_tags '(plots)
 #+hugo_custom_front_matter: :status plot 
 
-#+title: Writing
+Notes on productivity
+
 

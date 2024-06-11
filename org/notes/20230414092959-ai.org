@@ -2,6 +2,7 @@
 :ID:       9C2E4D79-615B-4D4C-BA3C-1718977DC1E4
 :END:
 #+title: AI
+#+hugo_custom_front_matter: :garden_tags '(plots)
 #+hugo_custom_front_matter: :status plot
 
 

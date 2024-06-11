@@ -3,8 +3,10 @@
 :END:
 #+title: Why I Still Use Emacs
 #+date: 2024-06-10
-#+hugo_custom_front_matter: :garden_tags '(emacs productivity ergonomics)
+#+hugo_custom_front_matter: :garden_tags '(emacs ergonomics productivity)
 #+hugo_custom_front_matter: :status growing 
+
+[[id:E2D60F17-89E2-4148-8DAD-587B69BF01DB][Emacs]] [[id:811A413C-B35B-42E8-8C00-F7796FD3F439][Ergonomics]] [[id:3DA6243F-8CD3-4EC1-9444-ED1395D1EFD7][Productivity]] 
 
 * Why I Still Use Emacs
 ** The Ergonomics Bug
