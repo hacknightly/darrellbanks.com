@@ -1,0 +1,25 @@
+#+TITLE: MY INBOX
+
+* 2024
+** 2024-05 May
+*** 2024-05-02 Thursday
+**** TODO A workspace for learning :ideas:
+
+Combines wikipedia, dictionary, flashcards, mind mapping into a fun experience
+Added: [2024-05-02 Thu 11:59]
+
+*** 2024-05-09 Thursday
+**** NOTE Type Level Typescript :learning:
+
++ TypeScript provides us with 5 main categories of types: primitive types, literal types, data structure types,
+  union types, and intersection types.
++ To get a better grasp of unions and intersections types, I'll need to cover a notion that's fundamental to Type-level TypeScript:
+  all types are sets. 
++ "unknown" is the top-level type set to which all other types belong
++ "never" is the empty, bottom-level set, for example when trying to intersect `string` and `number` 
+Added: [2024-05-09 Thu 15:03]
+
+* Entropy
+
+Entropy is the amount of disorder in a system. Negative entropy means that something is becoming less disordered. In order for something to become less disordered, energy must be used. This will not occur spontaneously. A messy, or disordered, room will not become clean, or less disordered, on its own.
+
