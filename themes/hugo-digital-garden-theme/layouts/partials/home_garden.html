@@ -8,9 +8,11 @@
         </div>
         <div class="col-4">
           <p class="card-right">
-            {{ with .Params.status }} {{ if not "plot" . }}
+            {{ with .Params.status }} {{ if eq "plot" . }}
+            <span></span>
+            {{ else }}
             <span class="card-date">{{ .Lastmod.Format "Jan 2, 2006" }} </span>
-            {{ end }} {{ end }}
+            {{end}} {{end}}
             <br />{{ partial "status.html" . }}
           </p>
         </div>
