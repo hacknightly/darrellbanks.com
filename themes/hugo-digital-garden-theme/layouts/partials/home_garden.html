@@ -10,7 +10,7 @@
           <p class="card-right">
             {{ with .Params.status }} {{ if not (eq "plot") . }}
             <span class="card-date">{{ .Lastmod.Format "Jan 2, 2006" }} </span>
-            {{ end }}
+            {{ end }} {{ end }}
             <br />{{ partial "status.html" . }}
           </p>
         </div>
