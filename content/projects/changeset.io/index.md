@@ -8,7 +8,7 @@ weight: 2
 summary: "Helping busy engineering teams automate pull requests"
 links:
     external_link:
-        text: "Some external link"
+        text: "Visit Changeset.io"
         icon: "fas fa-external-link-alt"
         href: "https://changeset.io"
         weight: 1
