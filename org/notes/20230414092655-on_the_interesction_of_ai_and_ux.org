@@ -7,7 +7,7 @@
 #+hugo_custom_front_matter: :garden_tags '(ai ux)
 #+hugo_custom_front_matter: :status seeding 
 
-- tags :: [[id:9C2E4D79-615B-4D4C-BA3C-1718977DC1E4][AI]] [[id:E03A68DA-A1EF-42C9-849C-A0AA370EEE64][UX]]  
+[[id:9C2E4D79-615B-4D4C-BA3C-1718977DC1E4][AI]] | [[id:E03A68DA-A1EF-42C9-849C-A0AA370EEE64][UX]]  
 
 We are living in the midst of the AI revolution.
 

@@ -7,7 +7,7 @@ garden_tags = ["emacs", "ergonomics", "productivity"]
 status = "growing"
 +++
 
-[Emacs]({{< relref "20240610194201-emacs.md" >}}) [Ergonomics]({{< relref "20240610153408-ergonomics.md" >}}) [Productivity]({{< relref "20240610194133-productivity.md" >}})
+[Emacs]({{< relref "20240610194201-emacs.md" >}}) | [Ergonomics]({{< relref "20240610153408-ergonomics.md" >}})  | [Productivity]({{< relref "20240610194133-productivity.md" >}})
 
 
 ## Why I Still Use Emacs {#why-i-still-use-emacs}
