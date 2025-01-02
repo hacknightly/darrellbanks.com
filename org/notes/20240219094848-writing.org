@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       5BA229D5-06FC-4804-976E-AC56937FEC84
-:END:
-#+date: 2024-06-10
-#+hugo_custom_front_matter: :garden_tags '(plots)
-#+hugo_custom_front_matter: :status plot 
-
-#+title: Writing
-

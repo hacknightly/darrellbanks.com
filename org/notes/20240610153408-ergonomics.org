@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       811A413C-B35B-42E8-8C00-F7796FD3F439
-:END:
-#+title: Ergonomics
-#+hugo_custom_front_matter: :garden_tags '(plots)
-#+hugo_custom_front_matter: :status plot 
-
-Notes on Ergonomics
-

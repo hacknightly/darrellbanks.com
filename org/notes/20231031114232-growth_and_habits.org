@@ -1,6 +1,0 @@
-:PROPERTIES:
-:ID:       DCDF7171-E206-46AD-9A70-BDB9760E347D
-:END:
-#+title: Growth and Habits
-#+hugo_draft: true
-

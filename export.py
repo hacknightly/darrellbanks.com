@@ -8,7 +8,7 @@ files = glob.glob("org/notes/*.org")
 with open('build.ninja', 'w') as ninja_file:
     ninja_file.write("""
 rule org2md
-  command = emacs --batch -l ~/.emacs -l ~/Library/CloudStorage/Dropbox/darrellbanks.com/publish.el --eval \"(darrell/publish \\"$in\\")"
+  command = emacs --batch -l ~/.emacs -l ~/Sync/darrellbanks.com/publish.el --eval \"(darrell/publish \\"$in\\")"
   description = org2md $in
 """)
     

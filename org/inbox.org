@@ -1,8 +1,16 @@
-#+TITLE: MY INBOX
-* TODO Write up a recommendation for Amauris 
-Added: [2024-06-11 Tue 13:20]
-* TODO call-and-response writing is where you find you can naturally
-  italicize the last parts of clauses, leading to writing where every
-  phrase leads to something and every sentence sets you up for
-  resolution
-Added: [2024-06-11 Tue 13:36]
+#+TITLE: My Inbox
+
+* TODO Scale & Communication
+
+How do you scale engineering teams and culture? 
+
+* TODO What are you building?
+
+You're either building towards economy of scale (lower unit price), economy of scope (lower marketing cost), or innovation (speed of product)
+
+* TODO Leveling up my language
+
+Use language that reflects the things I care about;
+
+Growth, scale, leadership, pragmatism, money, transparency, culture, performance, accessibility, correctness
+

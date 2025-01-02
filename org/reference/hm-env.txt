@@ -1,0 +1,43 @@
+Description: Environment variable for the health record API
+API_URL=https://pm-health-record-api-v1.pm-dev.rvohealth.io
+
+The NEXT_PUBLIC prefix is required to make the variable available on the client side
+NEXT_PUBLIC_GOOGLE_MAPS_API_KEY=AIzaSyCdSzO_Qyc-lSntlCs5jfrim4pa3Hb9Lpo
+
+Description: Environment variable for the medplan api used for plan recommendation and lookup proxying
+NEXT_PUBLIC_MEDPLAN_API_URL=https://tolchtt1rk.execute-api.us-east-2.amazonaws.com/Prod/v1
+
+Description: Environment variable for the medplan api username used for plan recommendation and lookup proxying
+NEXT_PUBLIC_MEDPLAN_BASIC_AUTH_USERNAME=DyCwqGpclv9KmWevItXf
+
+Description: Environment variable for the medplan api password used for plan recommendation and lookup proxying
+NEXT_PUBLIC_MEDPLAN_BASIC_AUTH_PASSWORD=Z;D6>*j8P&9DKrpbiKi>C>;8}2>89Q
+
+Description: Environment variable for the user current plan year used for plan comparison
+NEXT_PUBLIC_USER_CURRENT_PLAN_YEAR=2023
+
+Description: Environment variable for the enrollment year used for plan recommendation and lookup proxying
+NEXT_PUBLIC_ENROLLMENT_YEAR=2024
+
+Description: Environment variable that is set to true for demos of the product. This will enable the demo mode
+NEXT_PUBLIC_DEMO_PRODUCT=false
+
+Description: Environment variable to differentiate deployment environment
+NEXT_PUBLIC_NODE_ENV=staging
+
+Description: Environment variable to request health record from different providers
+enum: all, mm, x1
+NEXT_PUBLIC_HEALTH_RECORD_PROVIDER=all
+
+Description: Environment variable for Cohesion write key
+NEXT_PUBLIC_COHESION_WRITE_KEY=wkhp_2e3Fxnz9Ey206qdYqMlpNtVTm9j
+
+Description: Environment variable for Cohesion source key
+NEXT_PUBLIC_COHESION_SOURCE_KEY=src_2e3FxkwFore2YN95iIxzo13s0fM
+
+Description: Environment variable for Amplitude api key
+NEXT_PUBLIC_AMPLITUDE_API_KEY=2f8d7255e025f84d7764cbbbe6d6f69c
+
+Description: Environment variable feature flag to enable quick and dirty ab test for expand/collapse plan recommendation benefit sections. Possible values: EXPAND, COLLAPSE, AB_TEST
+NEXT_PUBLIC_FEATURE_FLAG_COLLAPSED_PLAN_RECOMMENDATION=EXPAND
+

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       723A6A25-72E4-4B7F-BA06-0FEC5F6DB19F
-:END:
-#+title: Engineering
-#+date: 2024-06-10
-#+hugo_custom_front_matter: :garden_tags '(plots)
-#+hugo_custom_front_matter: :status plot 
-

@@ -1,8 +1,0 @@
-:PROPERTIES:
-:ID:       E2D60F17-89E2-4148-8DAD-587B69BF01DB
-:END:
-#+title: Emacs
-
-#+hugo_custom_front_matter: :garden_tags '(plots)
-
-Notes on the Emacs text editor
