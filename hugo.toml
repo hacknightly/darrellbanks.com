@@ -1,8 +1,8 @@
-baseURL = 'https://darrellbanks.com/'
+baseURL = 'https://michenriksen.com/til-example-site/'
 languageCode = 'en-us'
-title = "Darrell's Digital Garden"
-copyright = 'Darrell Banks'
-enableRobotsTXT = true 
+title = 'Today I Learned'
+copyright = 'Michael Henriksen'
+enableRobotsTXT = true
 
 [module]
   [[module.imports]]
@@ -36,3 +36,15 @@ enableRobotsTXT = true
     [markup.goldmark.parser]
       [markup.goldmark.parser.attribute]
         block = true
+
+[params]
+  [params.author]
+    name = 'Michael Henriksen'
+    email = 'mchnrksn@gmail.com'
+
+  [params.footer]
+    creativeCommonsLicense = 'by_sa'
+
+  [params.robotstxt]
+    blockCC = true
+    blockAI = true
