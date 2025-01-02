@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       3A77344E-9B97-41D9-8E88-EE599241DE6D
+:END:
+#+title: The Evolution of Frontend Software Engineering
+#+date: [2025-01-02 Thu]
+#+hugo_lastmod: [2025-01-02 Thu]
+#+hugo_tags: frontend 
+#+hugo_section: notes
+
+The field has seemingly become more complex over the last decade or
+so, and I figured I'd share my thoughts on the changing tide.
+
+** Links
+[[id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D][Engineering]]  
+
+
+
