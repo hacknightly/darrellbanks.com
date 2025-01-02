@@ -2,6 +2,7 @@
 title: Accidentally she team you up words
 date: "2024-07-03"
 categories: [Big Data]
+section: notes 
 ---
 
 {{< admonition >}}This is a randomly generated note for demonstrating the content graph feature.{{< /admonition >}}

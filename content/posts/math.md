@@ -4,6 +4,7 @@ title: Math Typesetting
 date: 2019-03-08
 description: A brief guide to setup KaTeX
 math: true
+section: posts
 ---
 
 Mathematical notation with [KaTeX](https://katex.org/) is supported.
