@@ -1,0 +1,58 @@
+
+rule org2md
+  command = emacs --batch -l ~/.emacs -l ~/Library/CloudStorage/Dropbox/darrellbanks.com/publish.el --eval "(darrell/publish \"$in\")"
+  description = org2md $in
+
+build content/garden/20230109144800-documentation_driven_engineering.md: org2md org/notes/20230109144800-documentation_driven_engineering.org
+
+build content/garden/20231114094329-programming_languages.md: org2md org/notes/20231114094329-programming_languages.org
+
+build content/garden/20231031101236-second_brain.md: org2md org/notes/20231031101236-second_brain.org
+
+build content/garden/20231102102327-single_div_css_art.md: org2md org/notes/20231102102327-single_div_css_art.org
+
+build content/garden/20240610153408-ergonomics.md: org2md org/notes/20240610153408-ergonomics.org
+
+build content/garden/20230802180753-css.md: org2md org/notes/20230802180753-css.org
+
+build content/garden/20230414092959-ai.md: org2md org/notes/20230414092959-ai.org
+
+build content/garden/20240418102810-solving_tough_problems_as_a_team.md: org2md org/notes/20240418102810-solving_tough_problems_as_a_team.org
+
+build content/garden/20231114131806-principles.md: org2md org/notes/20231114131806-principles.org
+
+build content/garden/20231031114232-growth_and_habits.md: org2md org/notes/20231031114232-growth_and_habits.org
+
+build content/garden/20240107111742-on_useful_abstractions.md: org2md org/notes/20240107111742-on_useful_abstractions.org
+
+build content/garden/20231114094129-why_erlang_might_be_my_next_love.md: org2md org/notes/20231114094129-why_erlang_might_be_my_next_love.org
+
+build content/garden/20240610194133-productivity.md: org2md org/notes/20240610194133-productivity.org
+
+build content/garden/20240219103326-the_scqa_method.md: org2md org/notes/20240219103326-the_scqa_method.org
+
+build content/garden/20231114093951-erlang.md: org2md org/notes/20231114093951-erlang.org
+
+build content/garden/20240219094902-the_peel_method.md: org2md org/notes/20240219094902-the_peel_method.org
+
+build content/garden/20231031114041-my_dopamine_detox_journey.md: org2md org/notes/20231031114041-my_dopamine_detox_journey.org
+
+build content/garden/20230109144724-engineering.md: org2md org/notes/20230109144724-engineering.org
+
+build content/garden/20240610194201-emacs.md: org2md org/notes/20240610194201-emacs.org
+
+build content/garden/20230802180013-on_css_container_queries.md: org2md org/notes/20230802180013-on_css_container_queries.org
+
+build content/garden/20230414093032-ux.md: org2md org/notes/20230414093032-ux.org
+
+build content/garden/20240219094848-writing.md: org2md org/notes/20240219094848-writing.org
+
+build content/garden/20231031101212-the_code_method_of_note_taking.md: org2md org/notes/20231031101212-the_code_method_of_note_taking.org
+
+build content/garden/20240219094625-on_imposter_syndrome.md: org2md org/notes/20240219094625-on_imposter_syndrome.org
+
+build content/garden/20230502151022-on_software_longevity.md: org2md org/notes/20230502151022-on_software_longevity.org
+
+build content/garden/20230414092655-on_the_interesction_of_ai_and_ux.md: org2md org/notes/20230414092655-on_the_interesction_of_ai_and_ux.org
+
+build content/garden/20231019101338-why_i_still_use_emacs.md: org2md org/notes/20231019101338-why_i_still_use_emacs.org

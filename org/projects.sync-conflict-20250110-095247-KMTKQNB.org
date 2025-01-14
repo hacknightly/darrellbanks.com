@@ -1,7 +1,4 @@
 * HelloMedicare :project:
-** TODO Compare Grid Unit Tests 
-*** Add tests for compare grid header
-*** Add tests for compare grid row 
 * Woven :project:
 ** DONE Add higlighting functionality 
 - State "DONE"       from "TODO"       [2024-09-17 Tue 17:39]

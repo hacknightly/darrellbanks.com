@@ -1,0 +1,42 @@
+:PROPERTIES:
+:ID:       CD25A7FA-FD4F-41F2-8877-A2884A7838D7
+:END:
+#+title: Mixing the Old with the New: AI Assisted Programming in Emacs 
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-01-07 Tue]
+#+hugo_lastmod: [2025-01-07 Tue]
+
+*Link*: [[id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D][Engineering]] [[id:609F30EA-F47F-4BFA-9BBA-BB90091740DA][AI]]
+
+;; Copilot
+(use-package copilot
+  :ensure t
+  :quelpa (copilot :fetcher github
+                   :repo "copilot-emacs/copilot.el"
+                   :branch "main"
+                   :files ("*.el"))
+  :init
+  (global-copilot-mode)
+  (define-key copilot-completion-map (kbd "<backtab>") 'copilot-accept-completion))
+
+(use-package gptel :ensure t
+  :config
+  (setq gptel-api-key (getenv "OPENAI_API_KEY"))
+  (gptel-make-ollama "Ollama"
+    :host "localhost:11434"
+    :stream t        
+    :models '("llama2:latest")))
+
+
+   "ai"   '(:ignore t :which-key "AI")
+   "ai>"  '(gptel-send :which-key "Send Line")
+   "aig"  '(gptel :which-key "GPT Buffer")
+   "aim"  '(gptel-menu :which-key "GPT Menu")
+   "air"  '(gptel-rewrite :which-key "Rewrite")
+   "ai+"  '(gptel-add :which-key "Add")
+   "ai!"  '(gptel-add-file :which-key "Add File")
+   "ain" '(gptel--rewrite-next :which-key "Rewrite Next")
+   "aip" '(gptel--rewrite-previous :which-key "Rewrite Previous")
+
+

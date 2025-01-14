@@ -1,0 +1,274 @@
+#    -*- mode: org -*-
+
+
+Archived entries from file /Users/dbanks/Dropbox/darrellbanks.com/org/projects.org
+
+
+* DONE Statement Of Understanding Page
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-05 Mon 10:24
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from              [2024-06-25 Tue 09:51]
+** DONE Add required field indicator
+- State "DONE"       from "DONE"       [2024-06-25 Tue 09:50]
+- State "DONE"       from "IN-PROGRESS" [2024-06-17 Mon 10:13]
+- State "IN-PROGRESS" from "DONE"       [2024-06-13 Thu 13:39]
+- State "DONE"       from "TODO"       [2024-06-13 Thu 13:39]
+- State "DONE"       from "TODO"       [2024-06-13 Thu 13:39]
+Added: [2024-06-13 Thu 13:36]
+
+** DONE Add heading 
+- State "DONE"       from "NEXT"       [2024-06-17 Mon 10:13]
+Added: [2024-06-13 Thu 13:36]
+** DONE Add Statement Description Text
+- State "DONE"       from "NEXT"       [2024-06-17 Mon 10:13]
+Added: [2024-06-13 Thu 13:36]
+** DONE Add final radio buttons 
+- State "DONE"       from "TODO"       [2024-06-25 Tue 09:50]
+:LOGBOOK:
+CLOCK: [2024-06-17 Mon 10:13]--[2024-06-17 Mon 10:33] =>  0:20
+:END:
+Added: [2024-06-17 Mon 10:12]
+** DONE Add tests 
+- State "DONE"       from "TODO"       [2024-06-25 Tue 09:50]
+Added: [2024-06-17 Mon 10:12]
+
+
+* DONE Success Page
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-05 Mon 10:25
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-08-05 Mon 10:24]
+** DONE Add QR Code section
+- State "DONE"       from "TODO"       [2024-06-25 Tue 10:32]
+:LOGBOOK:
+CLOCK: [2024-06-25 Tue 10:00]--[2024-06-25 Tue 10:25] =>  0:25
+:END:
+** DONE Add "how to download" modal 
+- State "DONE"       from "TODO"       [2024-06-26 Wed 12:16]
+:LOGBOOK:
+CLOCK: [2024-06-26 Wed 10:56]--[2024-06-26 Wed 11:36] =>  0:40
+CLOCK: [2024-06-26 Wed 10:40]--[2024-06-26 Wed 10:40] =>  0:00
+CLOCK: [2024-06-25 Tue 10:33]--[2024-06-25 Tue 11:13] =>  0:40
+:END:
+** TODO Add user and plan data 
+:LOGBOOK:
+CLOCK: [2024-06-26 Wed 14:07]--[2024-06-26 Wed 14:47] =>  0:40
+CLOCK: [2024-06-26 Wed 12:19]--[2024-06-26 Wed 12:59] =>  0:40
+:END:
+** TODO Reach out about the "track online" button 
+** TODO Local design review 
+** TODO Create new branch
+** TODO What should the print button do? 
+
+
+* Personal Learning Application [25%] :project: 
+:PROPERTIES: 
+:TRIGGER: next-sibling todo!(NEXT) scheduled!(copy)
+:ORDERED: t
+:ARCHIVE_TIME: 2024-08-06 Tue 10:20
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/projects.org
+:ARCHIVE_CATEGORY: projects
+:END:
+** TODO Intialize App
+- State "DONE"       from "TODO"       [2024-06-12 Wed 16:54]
+Added: [2024-06-12 Wed 16:08]
+** DONE Register Domain
+- State "DONE"       from "TODO"       [2024-06-12 Wed 16:54]
+** TODO Create article fetcher
+** TODO Display Article 
+
+* DONE E2E Tests for enroll flow
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-08-27 Tue 10:15
+:ARCHIVE_FILE: ~/Dropbox/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-08-06 Tue 10:20]
+** DONE initial test write-up
+- State "DONE"       from "TODO"       [2024-08-06 Tue 10:20]
+:LOGBOOK:
+CLOCK: [2024-08-05 Mon 10:59]--[2024-08-05 Mon 11:39] =>  0:40
+CLOCK: [2024-08-05 Mon 10:24]--[2024-08-05 Mon 10:35] =>  0:11
+:END:
+** DONE Observe test runs 
+- State "DONE"       from "TODO"       [2024-08-06 Tue 10:20]
+*** The EnrollReviewPlanInfoCard is hard-coded and will need to be updated to reflect the actual data  
+** DONE Fix failing tests 
+- State "DONE"       from "TODO"       [2024-08-06 Tue 10:20]
+** TODO Get up a pull request 
+:LOGBOOK:
+CLOCK: [2024-08-06 Tue 10:30]--[2024-08-06 Tue 10:47] =>  0:17
+:END:
+
+* DONE Get access to HM preamp :sydney:work:
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:32
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-09-25 Wed 09:57]
+
+* DONE Understand the format of the text change doc :emilliene:work:
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:32
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-10-05 Sat 11:30]
+
+* DONE Understand the release process :drt:work:
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:32
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-10-05 Sat 11:30]
+
+* DONE UA-34: Pharmacy Tab
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:36
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "WAITING"    [2024-09-10 Tue 13:20]
+- State "WAITING"    from "TODO"       [2024-08-27 Tue 10:16]
+:LOGBOOK:
+CLOCK: [2024-08-07 Wed 10:43]--[2024-08-07 Wed 10:47] =>  0:04
+:END:
+** DONE Create basic container to mock plan assist
+- State "DONE"       from "TODO"       [2024-08-07 Wed 10:47]
+** DONE Move and genericize the pharmacy selector 
+- State "DONE"       from "IN-PROGRESS" [2024-08-07 Wed 12:33]
+- State "IN-PROGRESS" from "DELEGATED"  [2024-08-07 Wed 10:47]
+** TODO Understand the plan for displaying filters
+
+* DONE Upgrade to headless UI 2.0:  [[id:B1E2986B-C6E7-468F-BA6F-36DB31B91110][Upgrading to HeadlessUI V2]] 
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:36
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "IN-PROGRESS" [2024-09-10 Tue 13:20]
+:LOGBOOK:
+CLOCK: [2024-08-27 Tue 14:58]--[2024-08-27 Tue 15:07] =>  0:09
+CLOCK: [2024-08-27 Tue 12:44]--[2024-08-27 Tue 13:24] =>  0:40
+CLOCK: [2024-08-27 Tue 10:18]--[2024-08-27 Tue 10:58] =>  0:40
+:END:
+- State "IN-PROGRESS" from "TODO"       [2024-08-27 Tue 10:18]
+** Go through each step in the migration guide
+** Update and document changes 
+** Perform a full test of the application
+** Put up a PR 
+
+* DONE UHC-A Test Scoping
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:36
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-09-10 Tue 13:20]
+** Hero
+*** Goes under the "want a different type" banner
+** MA Key Plan Elements Assets 
+*** Add a new placement for the homepage "feature" component 
+*** Create the Key Plan Elements asset 
+** Match Flow Educational Section
+*** Q: What parts of the component are editable? 
+**** 
+*** Q: Are there 8 or 10 features?
+**** 
+** Overall
+*** Q: It looks like there's a version where the contact info for chat/member sign-in disappears. Is that correct?
+
+* DONE Preamp placements
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:36
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from              [2024-09-16 Mon 10:15]
+** First banner (1) 
+** Main hero section (2)
+** Second banner (3)
+
+* DONE e2e test updates 
+:PROPERTIES:
+:ARCHIVE_TIME: 2024-11-14 Thu 09:36
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: UHC-A
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-09-25 Wed 09:48]
+name: Cypress E2E Tests
+env:
+  GITHUB_PR_NUMBER: ${{github.event.pull_request.number}}
+
+on:
+  pull_request:
+    branches: [staging]
+
+jobs:
+  tests_e2e_netlify_prepare:
+    name: Wait for deployment on Netlify
+    runs-on: ubuntu-latest
+    steps:
+      - name: Waiting for Netlify Preview
+        uses: hacknightly/wait-for-netlify-action@master
+        id: wait-for-netflify-preview
+        with:
+          site_name: 'uhc-a'
+          path: 'findmedicare'
+          max_timeout: 180
+
+  tests_e2e_netlify:
+    needs: tests_e2e_netlify_prepare
+    name: Run end-to-end tests on Netlify build preview 
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+      - name: install dependencies 
+        run: mv package.json _package.json && npm i --no-save $(node -e "let d=require('./_package.json').devDependencies,o='';Object.keys(d).forEach((e=>{o+=e+'@'+d[e]+' '})),console.log(o);") && mv _package.json package.json
+      - name: run cypress 
+        run: npx cypress run 
+        env:
+          CYPRESS_BASE_URL: "https://deploy-preview-${{env.GITHUB_PR_NUMBER}}--uhc-a.netlify.app/findmedicare"
+
