@@ -1,21 +1,5 @@
 * HelloMedicare :project:
-** TODO Compare Grid Unit Tests 
-*** Add tests for compare grid header
-*** Add tests for compare grid row 
 * Woven :project:
-** DONE Add higlighting functionality 
-- State "DONE"       from "TODO"       [2024-09-17 Tue 17:39]
-** DONE fix the issue with highlight scroll on page load 
-- State "DONE"       from "TODO"       [2024-11-22 Fri 13:15]
-** TODO Auth functionality 
-*** DONE Add google auth
-- State "DONE"       from              [2024-11-22 Fri 15:53]
-*** Add custom sign-in page 
-** TODO Card functionality
-*** Create a card based on a highlight
-**** Add additional fields to the highlight to represent a card 
-
+** TODO Understand why links are missing during the crawl
 ** TODO redirect image clicks ie clicking an image in infobox 
 ** TODO sources ie sup[class="reference"] are currently hidden. make them popovers.
-** Fun learning software based on Wikipedia
-*** https://www.reddit.com/r/DoesAnybodyElse/comments/rphcpq/dae_read_a_bunch_of_wikipedia_articles_for_fun/ 

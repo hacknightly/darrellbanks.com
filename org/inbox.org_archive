@@ -12,3 +12,25 @@ Archived entries from file /Users/dbanks/Sync/darrellbanks.com/org/inbox.org
 :ARCHIVE_TODO: DONE
 :END:
 - State "DONE"       from "TODO"       [2025-01-06 Mon 11:58]
+
+* DONE look into this [[https://github.com/TanStack/query/blob/main/packages/react-query/src/useBaseQuery.ts#L116][function throw]] in react-query  
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-21 Tue 12:21
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+- State "DONE"       from "TODO"       [2025-01-21 Tue 12:21]
+
+* DONE What are you building?
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-21 Tue 12:23
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/inbox.org
+:ARCHIVE_CATEGORY: inbox
+:ARCHIVE_TODO: DONE
+:END:
+
+- State "DONE"       from "TODO"       [2025-01-21 Tue 12:23]
+You're either building towards economy of scale (lower unit price),
+economy of scope (lower marketing cost), or innovation (speed of product)
+

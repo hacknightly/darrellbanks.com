@@ -272,3 +272,95 @@ jobs:
         env:
           CYPRESS_BASE_URL: "https://deploy-preview-${{env.GITHUB_PR_NUMBER}}--uhc-a.netlify.app/findmedicare"
 
+
+* DONE Compare Grid Unit Tests 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:46
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-15 Wed 10:05]
+** Add tests for compare grid header
+** Add tests for compare grid row 
+
+* DONE What do folks want to work on?
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:46
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from              [2025-01-15 Wed 10:05]
+** Learning Center
+** Azure Instance 
+*** Frontend Logic
+** Shareable Pages 
+** React Query 
+** Next upgrades 
+
+* DONE [[https://rvohealth.atlassian.net/browse/UHCMC-2535][UHCMC-2535]] - Plan Rec Banner Bug  
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-16 Thu 10:46]
+** DONE Discover root cause of the issue 
+- State "DONE"       from "TODO"       [2025-01-15 Wed 10:16]
+:LOGBOOK:
+CLOCK: [2025-01-15 Wed 10:07]--[2025-01-15 Wed 10:16] =>  0:09
+:END:
+*** It appears that this is still using a preamp conditional. Removing that conditional should fix the issue.
+** DONE Implement a fix 
+- State "DONE"       from "TODO"       [2025-01-15 Wed 10:27]
+*** Removed the conditional
+*** Ensured that the data was refetched if preferences were updated 
+** DONE Add a test for the fix 
+- State "DONE"       from "TODO"       [2025-01-16 Thu 10:46]
+:LOGBOOK:
+CLOCK: [2025-01-15 Wed 10:39]--[2025-01-15 Wed 11:04] =>  0:25
+:END:
+
+* DONE Add higlighting functionality 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: Woven
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-09-17 Tue 17:39]
+
+* DONE fix the issue with highlight scroll on page load 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: Woven
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2024-11-22 Fri 13:15]
+
+* DONE Auth functionality 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-01-16 Thu 10:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: Woven
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-16 Thu 10:47]
+** DONE Add google auth
+- State "DONE"       from              [2024-11-22 Fri 15:53]
+** Add custom sign-in page 
