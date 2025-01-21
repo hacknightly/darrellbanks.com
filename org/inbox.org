@@ -1,10 +1,4 @@
 #+TITLE: My Inbox
-* TODO Leveling up my language
-
-Use language that reflects the things I care about;
-
-Growth, scale, leadership, pragmatism, money, transparency, culture, performance, accessibility, correctness
 * TODO NOTE read up on [[https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory][CAST]]  
 Added: [2025-01-03 Fri 11:56]
 * TODO AI Editing in Emacs
-* TODO 1:1 w/ Andy

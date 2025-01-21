@@ -6,6 +6,4 @@
 #+hugo_section: notes
 #+date: [2025-01-21 Tue]
 #+hugo_lastmod: [2025-01-21 Tue]
-#+hugo_tags: noexport
-*Link*:  
 
