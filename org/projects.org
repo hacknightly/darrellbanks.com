@@ -1,4 +1,18 @@
 * HelloMedicare :project:
+** TODO Create <ArticleRenderer /> component 
+*** IN-PROGRESS Get essential pieces in place 
+:LOGBOOK:
+CLOCK: [2025-01-23 Thu 13:03]--[2025-01-23 Thu 13:28] =>  0:25
+CLOCK: [2025-01-23 Thu 12:27]--[2025-01-23 Thu 12:52] =>  0:25
+CLOCK: [2025-01-23 Thu 11:56]--[2025-01-23 Thu 12:21] =>  0:25
+CLOCK: [2025-01-23 Thu 10:09]--[2025-01-23 Thu 10:34] =>  0:25
+:END:
+- State "IN-PROGRESS" from "TODO"       [2025-01-23 Thu 10:09]
+*** TODO Add tests 
+*** TODO Outline documentation
+**** Overview
+**** Props / Types
+**** Usage 
 * Woven :project:
 ** TODO Understand why links are missing during the crawl
 ** TODO redirect image clicks ie clicking an image in infobox 
