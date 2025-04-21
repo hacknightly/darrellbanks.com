@@ -1,19 +1,45 @@
-* HelloMedicare :project:
-** TODO Create <ArticleRenderer /> component 
-*** IN-PROGRESS Get essential pieces in place 
-:LOGBOOK:
-CLOCK: [2025-01-23 Thu 13:03]--[2025-01-23 Thu 13:28] =>  0:25
-CLOCK: [2025-01-23 Thu 12:27]--[2025-01-23 Thu 12:52] =>  0:25
-CLOCK: [2025-01-23 Thu 11:56]--[2025-01-23 Thu 12:21] =>  0:25
-CLOCK: [2025-01-23 Thu 10:09]--[2025-01-23 Thu 10:34] =>  0:25
-:END:
-- State "IN-PROGRESS" from "TODO"       [2025-01-23 Thu 10:09]
-*** TODO Add tests 
-*** TODO Outline documentation
-**** Overview
-**** Props / Types
-**** Usage 
+* HP Pro Messaging :projects:
 * Woven :project:
-** TODO Understand why links are missing during the crawl
+** DONE Understand why links are missing during the crawl
+- State "DONE"       from "TODO"       [2025-01-28 Tue 10:20]
+*** The links were page slug variations that redirect to the canonical page 
 ** TODO redirect image clicks ie clicking an image in infobox 
 ** TODO sources ie sup[class="reference"] are currently hidden. make them popovers.
+** DONE come up with a new way to serialize selections 
+- State "DONE"       from "DONE"       [2025-04-21 Mon 11:59]
+- State "DONE"       from "TODO"       [2025-03-22 Sat 10:17]
+** TODO List selection cases 
+*** Single paragraph, single selection 
+**** start: plain text, end: plain text 
+***** DONE select   
+- State "DONE"       from              [2025-03-23 Sun 11:34]
+***** DONE delete & reselect 
+- State "DONE"       from              [2025-03-23 Sun 11:34]
+**** start: plain text, end: middle-of-tag 
+***** DONE select 
+- State "DONE"       from              [2025-03-23 Sun 11:36]
+***** DONE delete & reselect 
+- State "DONE"       from              [2025-03-23 Sun 11:36]
+**** start: middle-of-tag, end: middle-of-tag 
+***** DONE select 
+- State "DONE"       from              [2025-03-23 Sun 11:37]
+***** DONE delete & reselect 
+- State "DONE"       from              [2025-03-23 Sun 11:37]
+*** Single paragraph, 3 selections 
+**** start: plain text, end: plain text 
+***** DONE select 
+- State "DONE"       from              [2025-03-23 Sun 11:40]
+***** DONE delete 1st and reselect
+- State "DONE"       from              [2025-03-23 Sun 11:41]
+***** DONE delete 2nd and reselect 
+- State "DONE"       from              [2025-03-23 Sun 11:42]
+***** DONE delete 3rd and reselect 
+- State "DONE"       from              [2025-03-23 Sun 11:43]
+***** DONE delete sequential 
+- State "DONE"       from              [2025-03-23 Sun 11:43]
+**** start: plain-text, end: middle-of-tag 
+***** select 
+***** TODO delete and reselect
+****** first node: is, last node: _shoo_ 
+****** first node: a, last node: _back_
+****** firt node: _board_, last node: hoop

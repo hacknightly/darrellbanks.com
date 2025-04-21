@@ -1,4 +1,2 @@
 #+TITLE: My Inbox
-* TODO NOTE read up on [[https://github.com/joelparkerhenderson/causal-analysis-based-on-system-theory][CAST]]  
-Added: [2025-01-03 Fri 11:56]
 * TODO AI Editing in Emacs

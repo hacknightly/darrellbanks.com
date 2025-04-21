@@ -364,3 +364,163 @@ CLOCK: [2025-01-15 Wed 10:39]--[2025-01-15 Wed 11:04] =>  0:25
 ** DONE Add google auth
 - State "DONE"       from              [2024-11-22 Fri 15:53]
 ** Add custom sign-in page 
+
+* DONE Create <ArticleRenderer /> component 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-02-03 Mon 09:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-28 Tue 10:19]
+** DONE Get essential pieces in place 
+- State "DONE"       from "IN-PROGRESS" [2025-01-24 Fri 10:14]
+:LOGBOOK:
+CLOCK: [2025-01-23 Thu 13:03]--[2025-01-23 Thu 13:28] =>  0:25
+CLOCK: [2025-01-23 Thu 12:27]--[2025-01-23 Thu 12:52] =>  0:25
+CLOCK: [2025-01-23 Thu 11:56]--[2025-01-23 Thu 12:21] =>  0:25
+CLOCK: [2025-01-23 Thu 10:09]--[2025-01-23 Thu 10:34] =>  0:25
+:END:
+- State "IN-PROGRESS" from "TODO"       [2025-01-23 Thu 10:09]
+** DONE Add tests 
+- State "DONE"       from "TODO"       [2025-01-28 Tue 10:19]
+:LOGBOOK:
+CLOCK: [2025-01-24 Fri 10:15]--[2025-01-24 Fri 10:40] =>  0:25
+:END:
+** DONE Outline documentation
+- State "DONE"       from "TODO"       [2025-01-28 Tue 10:19]
+*** Overview
+*** Props / Types
+*** Usage 
+
+* DONE implement Article Schema
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-02-03 Mon 09:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-30 Thu 10:27]
+:LOGBOOK:
+CLOCK: [2025-01-28 Tue 10:30]--[2025-01-28 Tue 10:55] =>  0:25
+:END:
+** DONE Read up on next SEO
+- State "DONE"       from "TODO"       [2025-01-28 Tue 10:33]
+** TODO Install and implement next-seo 
+
+* DONE [[https://rvohealth.atlassian.net/browse/UHCMC-2577][[UHCMC-2557]]] Modify Sitemap 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-02-03 Mon 09:47
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HelloMedicare
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: project
+:END:
+- State "DONE"       from "TODO"       [2025-01-30 Thu 10:32]
+** DONE Understand the sitemap generator
+- State "DONE"       from "TODO"       [2025-01-30 Thu 10:32]
+:LOGBOOK:
+CLOCK: [2025-01-30 Thu 10:29]--[2025-01-30 Thu 10:32] =>  0:03
+:END:
+Turns out, this was already done in a previous ticket.
+
+* HelloMedicare :project:
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-03-17 Mon 10:22
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_CATEGORY: projects
+:END:
+** TODO [[[https://rvohealth.atlassian.net/browse/UHCMC-2561][UHCMC-2561]]] Add article zip entry component
+*** DONE Understand reusability of zip entry 
+- State "DONE"       from "IN-PROGRESS" [2025-02-13 Thu 09:49]
+- State "IN-PROGRESS" from "TODO"       [2025-02-11 Tue 10:37]
+:LOGBOOK:
+CLOCK: [2025-02-11 Tue 10:37]--[2025-02-11 Tue 11:02] =>  0:25
+:END:
+*** IN-PROGRESS Add zip entry to page 
+:LOGBOOK:
+CLOCK: [2025-02-13 Thu 10:54]
+CLOCK: [2025-02-13 Thu 09:50]--[2025-02-13 Thu 10:15] =>  0:25
+:END:
+- State "IN-PROGRESS" from "TODO"       [2025-02-13 Thu 09:49]
+** DONE [[[https://rvohealth.atlassian.net/browse/UHCMC-2560][UHCMC-2560]]] Add anchor links component 
+- State "DONE"       from "IN-PROGRESS" [2025-02-11 Tue 10:35]
+- State "IN-PROGRESS" from "TODO"       [2025-02-05 Wed 13:52]
+*** DONE Add anchor link ids to heading 
+- State "DONE"       from "TODO"       [2025-02-05 Wed 12:35]
+:LOGBOOK:
+CLOCK: [2025-02-05 Wed 10:23]--[2025-02-05 Wed 10:48] =>  0:25
+:END:
+*** DONE Create anchor link component which accepts an article  
+- State "DONE"       from "IN-PROGRESS" [2025-02-05 Wed 15:00]
+:LOGBOOK:
+CLOCK: [2025-02-05 Wed 14:57]--[2025-02-05 Wed 15:00] =>  0:03
+CLOCK: [2025-02-05 Wed 14:25]--[2025-02-05 Wed 14:50] =>  0:25
+CLOCK: [2025-02-05 Wed 13:53]--[2025-02-05 Wed 14:18] =>  0:25
+:END:
+- State "IN-PROGRESS" from "TODO"       [2025-02-05 Wed 12:36]
+*** DONE Create heading component with intersection observer 
+- State "DONE"       from "IN-PROGRESS" [2025-02-11 Tue 10:35]
+:LOGBOOK:
+CLOCK: [2025-02-07 Fri 10:52]--[2025-02-07 Fri 11:17] =>  0:25
+CLOCK: [2025-02-07 Fri 10:12]--[2025-02-07 Fri 10:37] =>  0:25
+CLOCK: [2025-02-06 Thu 14:15]--[2025-02-06 Thu 14:40] =>  0:25
+CLOCK: [2025-02-06 Thu 13:45]--[2025-02-06 Thu 14:10] =>  0:25
+CLOCK: [2025-02-06 Thu 13:15]--[2025-02-06 Thu 13:40] =>  0:25
+CLOCK: [2025-02-06 Thu 10:21]--[2025-02-06 Thu 10:46] =>  0:25
+CLOCK: [2025-02-05 Wed 15:36]--[2025-02-05 Wed 16:01] =>  0:25
+:END:
+- State "IN-PROGRESS" from "TODO"       [2025-02-05 Wed 15:01]
+*** DONE Render and style anchor links
+- State "DONE"       from "TODO"       [2025-02-11 Tue 10:35]
+*** DONE Add test
+- State "DONE"       from "TODO"       [2025-02-11 Tue 10:35]
+** TODO Look into routing with [[https://github.com/pmndrs/zustand/discussions/2241][Zustand]]  
+** DONE [[[https://rvohealth.atlassian.net/browse/UHCMC-2578][UHCMC-2578]]] Create MedicalReviewer component
+- State "DONE"       from "TODO"       [2025-02-03 Mon 09:48]
+:LOGBOOK:
+CLOCK: [2025-01-30 Thu 10:37]--[2025-01-30 Thu 11:02] =>  0:25
+:END:
+** DONE [[[https://rvohealth.atlassian.net/browse/UHCMC-2585][UHCMC-2585]]] Create Medically Reviewed Badge
+- State "DONE"       from "TODO"       [2025-02-05 Wed 09:38]
+:LOGBOOK:
+CLOCK: [2025-02-03 Mon 09:50]--[2025-02-03 Mon 10:15] =>  0:25
+:END:
+*** DONE Add badge component
+- State "DONE"       from "TODO"       [2025-02-03 Mon 10:01]
+*** TODO Add SVG
+*** DONE Add component to test article 
+- State "DONE"       from "TODO"       [2025-02-03 Mon 10:01]
+
+* DONE Get local env into same state as offshore team 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-16 Wed 10:11
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HP Pro Messaging
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: projects
+:END:
+- State "DONE"       from              [2025-04-16 Wed 10:11]
+
+* DONE Investigate broken MFE integration 
+:PROPERTIES:
+:ARCHIVE_TIME: 2025-04-16 Wed 10:11
+:ARCHIVE_FILE: ~/Sync/darrellbanks.com/org/projects.org
+:ARCHIVE_OLPATH: HP Pro Messaging
+:ARCHIVE_CATEGORY: projects
+:ARCHIVE_TODO: DONE
+:ARCHIVE_ITAGS: projects
+:END:
+- State "DONE"       from              [2025-04-16 Wed 10:11]
+** What we tried 
+*** Vite -> Webpack
+*** Webpack -> Webpack 
+*** Standard lazy import 
+*** Manual script='module' & Promise.import() 
+*** Multiple share strategies
