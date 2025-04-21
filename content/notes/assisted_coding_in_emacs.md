@@ -1,18 +1,8 @@
 ---
-date: \[2025-01-07 Tue\]
 id: CD25A7FA-FD4F-41F2-8877-A2884A7838D7
 title: "Mixing the Old with the New: AI Assisted Programming in Emacs"
 ---
 
-```{=org}
-#+filetags: :notes:
-```
-```{=org}
-#+hugo_section: notes
-```
-```{=org}
-#+hugo_lastmod: [2025-01-07 Tue]
-```
 **Link**: [Engineering](id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D)
 [AI](id:609F30EA-F47F-4BFA-9BBA-BB90091740DA)
 

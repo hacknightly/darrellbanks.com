@@ -4,18 +4,6 @@ id: C56A301A-1A0E-438B-851D-A35543AF410C
 title: Record vs. object in Typescript
 ---
 
-```{=org}
-#+filetags: :notes:
-```
-```{=org}
-#+hugo_section: notes
-```
-```{=org}
-#+hugo_lastmod: [2025-01-23 Thu]
-```
-```{=org}
-#+hugo_tags: frontend 
-```
 **Link**:[Engineering](id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D)
 
 Often when defining an object type in Typescript, you might wonder

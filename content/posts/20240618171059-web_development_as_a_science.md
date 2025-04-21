@@ -1,7 +1,8 @@
-:PROPERTIES:
-:ID:       A2C89A94-5026-4AD4-B3C6-F66DB17C5C70
-:END:
-#+title: Web Development as a Science
+---
+title: "Web Development as a Science"
+author: ["Darrell Banks"]
+draft: false
+---
 
 Web frameworks come and go. I'm old enough to remember a time when Mootools
 was the hot new thing. I watched JQuery rise and fall. I've seen React

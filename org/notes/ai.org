@@ -2,10 +2,5 @@
 :ID:       609F30EA-F47F-4BFA-9BBA-BB90091740DA
 :END:
 #+title: AI
-#+filetags: :notes:
-#+hugo_section: notes
 #+date: [2025-01-07 Tue]
-#+hugo_lastmod: [2025-01-07 Tue]
-#+hugo_tags: noexport
-*Link*:  
 

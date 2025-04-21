@@ -1,9 +1,11 @@
-:PROPERTIES:
-:ID:       1085E341-3772-4DBC-A043-3923A2B5261A
-:END:
-#+title: Leveling Up My Language
-#+date: [2025-01-21 Tue]
-*Link*:[[id:E8DD0A46-DD7A-4AC4-9831-FA681F44296C][Culture]] 
+---
+title: "Leveling Up My Language"
+author: ["Darrell Banks"]
+date: 2025-01-21T00:00:00-07:00
+draft: false
+---
+
+**Link**:[Culture]({{< relref "culture.md" >}})
 
 The book "Tribal Leadership" talks at length about how language shapes
 culture. It made me take a closer look at the language I use when
@@ -14,12 +16,12 @@ having an "off day". Here are some of the words I'm using to try and
 better shape the culture of language we use, which I think also
 naturally reflects some of the things I value in a work setting.
 
-- Growth
-- Scale
-- Leadership
-- Pragmatism
-- Business case (money)
-- Transparency
-- Performance
-- Accessibility
-- Correctness
+-   Growth
+-   Scale
+-   Leadership
+-   Pragmatism
+-   Business case (money)
+-   Transparency
+-   Performance
+-   Accessibility
+-   Correctness

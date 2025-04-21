@@ -4,15 +4,6 @@ id: 3A77344E-9B97-41D9-8E88-EE599241DE6D
 title: The Evolution of Frontend Software Engineering
 ---
 
-```{=org}
-#+hugo_lastmod: [2025-01-02 Thu]
-```
-```{=org}
-#+hugo_tags: frontend 
-```
-```{=org}
-#+hugo_section: posts 
-```
 # In the Beginning
 
 When I began my journey in web development circa 2010, the \"web 2.0\"

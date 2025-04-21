@@ -3,8 +3,6 @@ id: A2C89A94-5026-4AD4-B3C6-F66DB17C5C70
 title: Web Development as a Science
 ---
 
-+#hugo~draft~: true
-
 Web frameworks come and go. I\'m old enough to remember a time when
 Mootools was the hot new thing. I watched JQuery rise and fall. I\'ve
 seen React grow to dominate the front-end landscape. For someone

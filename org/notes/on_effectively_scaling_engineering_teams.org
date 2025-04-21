@@ -2,11 +2,7 @@
 :ID:       651ED9AE-CB40-4A56-B4E4-C1DE8AA0F252
 :END:
 #+title: On Effectively Scaling Engineering Teams
-#+filetags: :notes:
-#+hugo_section: notes
 #+date: [2025-01-06 Mon]
-#+hugo_lastmod: [2025-01-06 Mon]
-#+hugo_tags: noexport
 *Link*: [[id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D][Engineering]] 
 
 ** How do you scale engineering teams and culture? 

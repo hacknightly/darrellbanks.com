@@ -4,15 +4,6 @@ id: 1085E341-3772-4DBC-A043-3923A2B5261A
 title: Leveling Up My Language
 ---
 
-```{=org}
-#+filetags: :notes:
-```
-```{=org}
-#+hugo_section: notes
-```
-```{=org}
-#+hugo_lastmod: [2025-01-21 Tue]
-```
 **Link**:[Culture](id:E8DD0A46-DD7A-4AC4-9831-FA681F44296C)
 
 The book \"Tribal Leadership\" talks at length about how language shapes

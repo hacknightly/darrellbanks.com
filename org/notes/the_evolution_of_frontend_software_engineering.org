@@ -3,9 +3,6 @@
 :END:
 #+title: The Evolution of Frontend Software Engineering
 #+date: [2025-01-02 Thu]
-#+hugo_lastmod: [2025-01-02 Thu]
-#+hugo_tags: frontend 
-#+hugo_section: posts 
 
 * In the Beginning
 

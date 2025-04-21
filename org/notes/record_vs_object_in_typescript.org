@@ -2,11 +2,7 @@
 :ID:       C56A301A-1A0E-438B-851D-A35543AF410C
 :END:
 #+title: Record vs. object in Typescript
-#+filetags: :notes:
-#+hugo_section: notes
 #+date: [2025-01-23 Thu]
-#+hugo_lastmod: [2025-01-23 Thu]
-#+hugo_tags: frontend 
 *Link*:[[id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D][Engineering]]   
 
 

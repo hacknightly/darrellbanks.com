@@ -2,8 +2,5 @@
 :ID:       E8DD0A46-DD7A-4AC4-9831-FA681F44296C
 :END:
 #+title: Culture
-#+filetags: :notes:
-#+hugo_section: notes
 #+date: [2025-01-21 Tue]
-#+hugo_lastmod: [2025-01-21 Tue]
 
