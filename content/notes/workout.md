@@ -1,0 +1,69 @@
+# 16 day
+
+Day 1: Upper Body A
+
+3 sets of Bench Presses, 5-8 reps per set 3 sets of Barbell Rows, 5-8
+reps per set 3 sets of Incline Dumbbell Presses, 8-10 reps per set 3
+sets of Pull-ups, 8-10 reps per set 2 sets of Side Lateral Raises, 10-15
+reps per set 2 sets of Seated Dumbbell Curls, 10-15 reps per set 2 sets
+of Tricep Pushdowns, 10-15 reps per set
+
+Day 2: Rest
+
+Day 3: Upper Body B
+
+3 sets of Chin-ups, 5-8 reps per set 3 sets of Overhead Barbell Presses,
+5-8 reps per set 3 sets of Seated Cable Rows, 8-10 reps per set 3 sets
+of Flat Dumbbell Bench Presses, 8-10 reps per set 3 sets of Chest
+Dumbbell Flyes, 8-10 reps per set 2 sets of Dumbbell Tricep Extensions,
+10-15 reps per set 2 sets of EZ-Bar Curls, 10-15 reps per set Day 4: Day
+of Rest
+
+Day 5: Lower Body A
+
+3 sets of Deadlifts, 5-8 reps per set 3 sets of Standing Calf Raises,
+5-8 reps per set 3 sets of Leg Curls, 8-10 reps per set 3 sets of Leg
+Presses, 8-10 reps per set 3 sets of Cable Crunches, 10-15 reps per set
+Day 6: Rest
+
+Day 7: Lower Body B
+
+3 sets of Barbell Squats, 5-8 reps per set 3 sets of Bulgarian Split
+Squats, 8-10 reps per set 3 sets of Reverse Crunches, 8-10 reps per set
+3 sets of Lying Leg Curls, 10-12 reps per set 3 sets of Seated Calf
+Raises, 10-12 reps per set Day 8: Rest
+
+Day 9: Upper Body C
+
+3 sets of Seated Shoulder Presses, 5-8 reps per set 3 sets of Incline
+Bench Presses, 5-8 reps per set 3 sets of Barbell Squats, 5-8 reps per
+set 3 sets of Machine Lateral Raises, 8-12 reps per set 3 sets of
+Machine Fly, 8-12 reps per set Day 10: Rest
+
+Day 11: Upper Body D
+
+3 sets of Dumbbell Rows, 5-8 reps per set 3 sets of Incline Chest
+Raises, 5-8 reps per set 3 sets of Lat Pull Downs, 10-12 reps per set 3
+sets of Push-ups, 12-15 reps per set 3 sets of Chin-ups, 12-15 reps per
+set Day 12: Rest
+
+Day 13: Lower Body C
+
+3 sets of Romanian Deadlifts, 5-8 reps per set 3 sets of Dumbbell
+Squats, 5-8 reps per set 3 sets of Stiff Leg Deadlifts, 5-8 reps per set
+4 sets of Leg Extensions, 8-15 reps per set 4 sets of Leg Curls, 8-15
+reps per set Day 14: Rest
+
+Day 15: Lower Body D
+
+4 sets of Barbell Squats, 5-8 reps per set 3 sets of Leg Presses, 10-12
+reps per set 3 sets of Walking Free Weight Lunges, 10-12 reps per set 4
+sets of Bulgarian Split Squats, 10-12 reps per set 3 sets of Standing
+Calf Raises, 12-15 reps per set 3 sets of Glute Bridges, 12-15 reps per
+set Day 16: Rest
+
+At this point, you can decide to repeat this workout plan for an
+additional 2 weeks, 4 weeks, or 6 weeks, etc. If you are bored or find
+it is too easy for you, feel free to switch it up a bit. It's all up to
+you, just make sure you keep the principles of an upper, lower body
+split in your routine.

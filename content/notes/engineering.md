@@ -1,7 +1,12 @@
 ---
-title: "Engineering"
-author: ["Darrell Banks"]
-date: 2025-01-02T00:00:00-07:00
-lastmod: 2025-01-02T00:00:00-07:00
-draft: false
+date: \[2025-01-02 Thu\]
+id: CC58D5BD-1B6F-4464-AFC2-C805ED1B425D
+title: Engineering
 ---
+
+```{=org}
+#+hugo_lastmod: [2025-01-02 Thu]
+```
+```{=org}
+#+hugo_section: notes 
+```

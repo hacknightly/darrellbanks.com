@@ -1,2 +1,2 @@
 export:
-	python export.py
+	cd ./org/notes && ./export.sh
