@@ -1,37 +1,36 @@
 ---
-title: "Web Development as a Science"
-author: ["Darrell Banks"]
-draft: false
+id: A2C89A94-5026-4AD4-B3C6-F66DB17C5C70
+title: Web Development as a Science
 ---
 
-Web frameworks come and go. I'm old enough to remember a time when Mootools
-was the hot new thing. I watched JQuery rise and fall. I've seen React
-grow to dominate the front-end landscape. For someone entering their
-second decade of web development, it's easy to become jaded by the
-constant churn of the latest and greatest technologies.
+Web frameworks come and go. I\'m old enough to remember a time when
+Mootools was the hot new thing. I watched JQuery rise and fall. I\'ve
+seen React grow to dominate the front-end landscape. For someone
+entering their second decade of web development, it\'s easy to become
+jaded by the constant churn of the latest and greatest technologies.
 
-Something I often tell myself is that it's best to focus on the
+Something I often tell myself is that it\'s best to focus on the
 fundamentals, and to ignore the hype cycle. How many of these new
-frameworks will be around in five years? What's the point of becoming a "React
-expert" if React is no longer relevant in a few years? Better that I
-become a JavaScript expert so that I can adapt to whatever new
+frameworks will be around in five years? What\'s the point of becoming a
+\"React expert\" if React is no longer relevant in a few years? Better
+that I become a JavaScript expert so that I can adapt to whatever new
 framework pops up.
 
 I recently watched an interview with the famous astrophysicist Neil
 deGrasse Tyson where he discussed the importance of scrutinizing new
-ideas and novel concepts, and how critical the peer-review process is
-to discovering the truth.
+ideas and novel concepts, and how critical the peer-review process is to
+discovering the truth.
 
 It made me somewhat reconsider my stance on how I approach new
-frameworks and technologies. If I don't take the time to at least have
-a look, how can I be sure that I'm not missing out on something. Even
-more importantly, as someone who cares deeply about the craft, it's my
-DUTY to investigate, scrutinize, and evaluate new ideas in order to
-help push the field forward.
+frameworks and technologies. If I don\'t take the time to at least have
+a look, how can I be sure that I\'m not missing out on something. Even
+more importantly, as someone who cares deeply about the craft, it\'s my
+DUTY to investigate, scrutinize, and evaluate new ideas in order to help
+push the field forward.
 
 Scientists, at least the good ones, are constantly reading papers,
 questioning their assumptions, and testing new ideas. They do rely on
 the foundational knowledge that has been built up over the years, but
 they also understand that the field is constantly evolving, and while
-not every new idea is a good one, some of them are. The only way to
-know is to investigate.
+not every new idea is a good one, some of them are. The only way to know
+is to investigate.
