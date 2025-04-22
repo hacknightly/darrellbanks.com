@@ -1,6 +1,0 @@
----
-date: \[2025-01-07 Tue\]
-id: 609F30EA-F47F-4BFA-9BBA-BB90091740DA
-title: AI
----
-

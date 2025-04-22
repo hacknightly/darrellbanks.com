@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       902FA320-9871-456B-8890-634FDF9B93B5
+:END:
+#+title: Test Note
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-04-22 Tue]
+#+hugo_lastmod: [2025-04-22 Tue]
+*Link*: [[id:CC58D5BD-1B6F-4464-AFC2-C805ED1B425D][Engineering]] 
+
+#+begin_export md
+> [!note] An intuitive way to think about why it makes more sense.
+> The distribution that are closer to normal distribution usually makes more sense. In this example, the distribution of group C and of D in alternative hypothesis are more closer to normal distribution (compare the data points vs the mean)
+#+end_export
+

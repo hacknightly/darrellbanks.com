@@ -1,7 +1,0 @@
----
-id: 8D30DCEE-8471-4902-8C9B-56567D33D745
-title: Text Overflow Ellipsis
----
-
-There is a second parameter to text-overflow: ellipsis which denotes the
-characters to use for the ellipse

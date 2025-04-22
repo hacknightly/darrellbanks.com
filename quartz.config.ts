@@ -10,7 +10,7 @@ const config: QuartzConfig = {
   configuration: {
     pageTitle: "🪴 Darrell's Notebook",
     pageTitleSuffix: "",
-    enableSPA: false,
+    enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
@@ -67,11 +67,10 @@ const config: QuartzConfig = {
         },
         keepBackground: false,
       }),
+      Plugin.OxHugoFlavouredMarkdown(),
       Plugin.GitHubFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks({
-        markdownLinkResolution: "shortest",
-      }),
+      Plugin.CrawlLinks(),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
