@@ -1,7 +1,0 @@
-:PROPERTIES:
-:ID:       CC58D5BD-1B6F-4464-AFC2-C805ED1B425D
-:END:
-#+title: Engineering
-#+date: [2025-01-02 Thu]
-*Link*:  
-
