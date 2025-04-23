@@ -8,8 +8,23 @@
 #+hugo_lastmod: [2025-04-22 Tue]
 *Link*: [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]] 
 
+
 #+begin_export md
 > [!note] An intuitive way to think about why it makes more sense.
->
 > The distribution that are closer to normal distribution usually makes more sense. In this example, the distribution of group C and of D in alternative hypothesis are more closer to normal distribution (compare the data points vs the mean)
 #+end_export
+
+#+begin_src typescript
+export function trimPathSuffix(fp: string): string {
+  fp = clientSideSlug(fp)
+  let [cleanPath, anchor] = fp.split("#", 2)
+  anchor = anchor === undefined ? "" : "#" + anchor
+
+  return cleanPath + anchor
+}
+#+end_src
+
+\sum_{n=0}^\infty 1/n
+
+
+[[/static/og-image.png]]
