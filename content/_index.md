@@ -8,7 +8,15 @@ draft: false
 This is my personal notebook. It's a place where I keep track of my thoughts, ideas, and notes on things I'm learning. It's a living document that I update regularly. If you want to get to know me better, this is a good place to start.
 
 
-## Me In a Nutshell
+# 🌱 Focus Areas
+
+- [Software Engineering](/categories/engineering)
+- [Javascript](/categories/javascript)
+- [CSS](/categories/css)
+- [Math](/categories/math)
+- [Algorithms](/categories/algorithms)
+
+# About Me 
 
 🚶🏿 Just a laid back guy with a passion for building meaningful software and personal productivity! I'm probably in the middle of a Pomodoro right now! I'm deeply, intrinsically motivated by self-development and failing forward, so I'm looking forward to learning from my future mistakes.
 

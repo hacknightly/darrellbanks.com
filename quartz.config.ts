@@ -70,7 +70,10 @@ const config: QuartzConfig = {
       Plugin.OxHugoFlavouredMarkdown(),
       Plugin.ObsidianFlavoredMarkdown(),
       Plugin.TableOfContents(),
-      Plugin.CrawlLinks(),
+      Plugin.CrawlLinks({
+        prettyLinks: true,
+        markdownLinkResolution: "relative",
+      }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
