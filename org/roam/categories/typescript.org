@@ -1,10 +1,11 @@
 :PROPERTIES:
 :ID:       F9539A3B-7B1D-4E56-AE5C-CBFC98856432
 :END:
-#+title:Javascript
+#+title: Typescript
 #+filetags: :categories: 
 #+hugo_section: categories
 #+date: [2025-04-24 Thu]
-#+hugo_lastmod: [2025-04-24 Thu]
+#+hugo_lastmod: [2025-04-25 Fri]
 Link: [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]] 
+
 

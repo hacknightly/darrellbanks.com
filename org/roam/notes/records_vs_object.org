@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       02BC370B-AF9D-425B-8B5F-24231B662422
+:END:
+#+title: Records vs. Object
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-04-25 Fri]
+#+hugo_lastmod: [2025-04-25 Fri]
+*Link*: [[id:F9539A3B-7B1D-4E56-AE5C-CBFC98856432][Typescript]] [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]]    
+
+* Defining Objects
+
+When defining the types of key value pairs in Typescript, there are two
+common ways to go about it.
+
+The most common way is to just use a  combined with the =in=
+operator to define the keys. Notably, this construct is only available
+with =types= and not =interfaces=
+
+#+begin_src typescript 
+  type CatName = "fuzzy" | "kitty" | "furball"
+
+  type CatAges = {
+    [key in CatName]: number;
+  }
+#+end_src
+
+This can also be accomplished by using the `Record` utility type, and
+I think more clearly illustrates the intent
+
+#+begin_src typescript
+  type CatName = "garfield" | "eek"
+
+  type CatAges = Record<CatName, number>;
+#+end_src
