@@ -1,13 +1,13 @@
 ---
-title: "Records vs. Object"
+title: "Record vs. Object"
 author: ["Darrell Banks"]
 date: 2025-04-25T00:00:00-06:00
 lastmod: 2025-04-25T00:00:00-06:00
-tags: ["notes"]
+tags: ["notes", "typescript"]
 draft: false
 ---
 
-**Link**: [Typescript]({{< relref "../categories/typescript.md" >}}) [Engineering]({{< relref "../categories/engineering.md" >}})
+**Connections**: [Software Engineering]({{< relref "../categories/software_engineering.md" >}}) [Typescript]({{< relref "../categories/typescript.md" >}})
 
 
 ## Defining Objects {#defining-objects}

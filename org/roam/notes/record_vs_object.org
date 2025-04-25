@@ -1,12 +1,12 @@
 :PROPERTIES:
-:ID:       02BC370B-AF9D-425B-8B5F-24231B662422
+:ID:       E1344B00-2FAE-4CF9-8BA3-2A1DCA7D0741
 :END:
-#+title: Records vs. Object
-#+filetags: :notes:
+#+title: Record vs. Object
+#+filetags: :notes: :typescript:
 #+hugo_section: notes
 #+date: [2025-04-25 Fri]
 #+hugo_lastmod: [2025-04-25 Fri]
-*Link*: [[id:F9539A3B-7B1D-4E56-AE5C-CBFC98856432][Typescript]] [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]]    
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] [[id:AC09E25B-2E20-4737-805E-46EBCDB2028F][Typescript]]  
 
 * Defining Objects
 
@@ -33,3 +33,5 @@ I think more clearly illustrates the intent
 
   type CatAges = Record<CatName, number>;
 #+end_src
+
+

@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       2FD28D36-0A04-4103-8FE9-6AB0D2007ECB
-:END:
-#+title:Algorithms
-#+filetags: :categories: 
-#+hugo_section: categories
-#+date: [2025-04-24 Thu]
-#+hugo_lastmod: [2025-04-24 Thu]
-

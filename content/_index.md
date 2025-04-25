@@ -10,11 +10,8 @@ This is my personal notebook. It's a place where I keep track of my thoughts, id
 
 # 🌱 Focus Areas
 
-- [Software Engineering](/categories/engineering)
-- [Typescript](/categories/typescript)
-- [CSS](/categories/css)
-- [Math](/categories/math)
-- [Algorithms](/categories/algorithms)
+- [Software Engineering](/tags/engineering)
+- [Typescript](/tags/typescript)
 
 # About Me 
 

@@ -1,12 +1,11 @@
 :PROPERTIES:
-:ID:       E5364B08-87CF-4293-B164-620E04DC0D5C
+:ID:       B16BBF2D-75B3-4F06-8C90-4EC3A4251857
 :END:
 #+title: Test Post
 #+filetags: :notes:
 #+hugo_section: notes
-#+date: [2025-04-22 Tue]
-#+hugo_lastmod: [2025-04-22 Tue]
-*Link*: [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]] 
+#+date: [2025-04-25 Fri]
+#+hugo_lastmod: [2025-04-25 Fri]
 
 
 #+begin_export md
@@ -28,3 +27,5 @@ export function trimPathSuffix(fp: string): string {
 
 
 [[/static/og-image.png]]
+
+

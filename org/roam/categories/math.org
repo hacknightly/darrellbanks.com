@@ -1,9 +1,0 @@
-:PROPERTIES:
-:ID:       0DE4B24D-F094-4ED4-8D36-D0E3DB0378BC
-:END:
-#+title:Math
-#+filetags: :categories: 
-#+hugo_section: categories
-#+date: [2025-04-24 Thu]
-#+hugo_lastmod: [2025-04-24 Thu]
-
