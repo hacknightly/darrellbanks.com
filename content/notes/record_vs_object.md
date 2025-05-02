@@ -2,7 +2,7 @@
 title: "Record vs. Object"
 author: ["Darrell Banks"]
 date: 2025-04-25T00:00:00-06:00
-lastmod: 2025-04-25T00:00:00-06:00
+lastmod: 2025-05-02T00:00:00-06:00
 tags: ["notes", "typescript", "engineering"]
 draft: false
 ---

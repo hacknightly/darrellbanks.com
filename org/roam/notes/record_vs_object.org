@@ -5,7 +5,7 @@
 #+filetags: :notes: :typescript: :engineering:
 #+hugo_section: notes
 #+date: [2025-04-25 Fri]
-#+hugo_lastmod: [2025-04-25 Fri]
+#+hugo_lastmod: [2025-05-02 Fri]
 *Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] [[id:AC09E25B-2E20-4737-805E-46EBCDB2028F][Typescript]]  
 
 * Defining Objects
@@ -33,5 +33,4 @@ I think more clearly illustrates the intent
 
   type CatAges = Record<CatName, number>;
 #+end_src
-
 
