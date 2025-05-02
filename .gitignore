@@ -14,3 +14,4 @@ org/private/
 /org/daily/
 **/.DS_Store
 *.tmp
+*.driveupload

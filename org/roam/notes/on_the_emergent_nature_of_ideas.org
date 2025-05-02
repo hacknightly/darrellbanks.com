@@ -2,7 +2,7 @@
 :ID:       6400448E-3662-41A4-A97E-A2C454612DC7
 :END:
 #+title: On the Emergent Nature of Ideas
-#+filetags: :notes:
+#+filetags: :notes: :thinking:
 #+hugo_section: notes
 #+date: [2025-05-02 Fri]
 #+hugo_lastmod: [2025-05-02 Fri]

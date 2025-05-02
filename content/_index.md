@@ -12,6 +12,7 @@ This is my personal notebook. It's a place where I keep track of my thoughts, id
 
 - [Software Engineering](/tags/engineering)
 - [Typescript](/tags/typescript)
+- [Thinking](/tags/thinking)
 
 # About Me 
 
