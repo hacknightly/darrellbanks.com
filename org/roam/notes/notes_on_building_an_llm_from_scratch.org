@@ -40,11 +40,11 @@
 **** <|unk|> tokens are used to indicate words that aren't in the vocab 
 **** <|endoftext|> tokens are used to indicate the beginning of a new text source when multiple sources are used
 **** BPE or "Byte Pair Encoding" is a commonly used, sophisticated tokenization scheme that can be installed with the [[https://github.com/openai/tiktoken][tiktoken]] package  
-*** Data Sampling With a Sliding Window
-**** [LLMs] _learn_ to predict one word at a time 
-**** [LLMs learn] _to_ predict one word at a time 
-**** [LLMs learn to] _predict_ one word at a time 
-***** Given a text sample, the LLM prediction task during training is to predict the next word that follows the input block.
+- Data Sampling With a Sliding Window
+  - [LLMs] _learn_ to predict one word at a time 
+  - [LLMs learn] _to_ predict one word at a time 
+  - [LLMs learn to] _predict_ one word at a time 
+    - Given a text sample, the LLM prediction task during training is to predict the next word that follows the input block.
 In the example above, the input blocks are in [brackets] and the
 target word is _underlined_
 ** Creating Token Embeddings
