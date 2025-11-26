@@ -1,0 +1,29 @@
+:PROPERTIES:
+:ID:       113E286F-12A0-4C5C-9102-CADF49E0E67C
+:END:
+#+title: Notes on Langchain
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-06-12 Thu]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*:  [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+
+* What is LangChain?
+
+** Langchain is a framework for developing applications powered by LLMs
+
+** Combines open source components and third-party integrations to assist with development
+
+** Implements a standard interface for large language models and [[https://python.langchain.com/docs/integrations/providers/][related technologies]] 
+
+#+begin_src python
+  from langchain_core.messages import HumanMessage, SystemMessage
+
+  messages = [
+    SystemMessage("Translate the following from English into Italian"),
+    HumanMessage("hi")
+  ]
+
+  model.invoke(messages)
+#+end_src
+

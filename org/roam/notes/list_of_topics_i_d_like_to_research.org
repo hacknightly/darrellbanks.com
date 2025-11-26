@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       0A7BCFF6-8702-47EB-9BAC-907EC61D3005
+:END:
+#+title: List of Topics I'd Like to Research
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-05-07 Wed]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*:  [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]] 
+
+source: https://www.cold-takes.com/learning-by-writing/
+
+* Research Process
+1. Pick a topic (“Find claims that are important if true, and might be true.”)
+2. Read and/or discuss with others (a bit)
+3. Explain and defend my current, incredibly premature hypothesis, in
+   writing
+4. Find and list weaknesses in my case
+5. Pick a subquestion and do more reading
+6. Reverse my claim / switch sides
+7. Repeat steps 3-6 as necessary
+8. Get feedback on draft and use this to keep repeating steps 3-6
+
+* Topics / Hypothesis
+** [ ] AI safety isn't advancing rapidly enough
+** [ ] In five years, web browsers will be dead. The web will be
+something an AI agent uses on your behalf
+*** https://www.diabrowser.com/ 
+*** https://sky.app/ 
+ 

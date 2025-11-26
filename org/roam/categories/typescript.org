@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       AC09E25B-2E20-4737-805E-46EBCDB2028F
+:END:
+#+title: Typescript
+#+filetags: :category: :typescript:
+#+hugo_section: categories
+#+date: [2025-04-25 Fri]
+#+hugo_lastmod: [2025-04-25 Fri]
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+

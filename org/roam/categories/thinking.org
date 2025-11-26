@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       2B73C5AA-FBF8-4324-B1D4-DD5F8644F382
+:END:
+#+title: Thinking
+#+filetags: :category:
+#+hugo_section: categories
+#+date: [2025-05-02 Fri]
+#+hugo_lastmod: [2025-05-02 Fri]
+

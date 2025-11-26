@@ -1,0 +1,28 @@
+:PROPERTIES:
+:ID:       FCF876D6-AFCC-4DB5-9A4D-2574F217B07E
+:END:
+#+title: The Learn, Reflect, Apply, Prepare Loop
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-10-08 Wed]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*: [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]]  
+
+The LRAP loop is a system for learning and growth that uses
+the four steps as a continuous loop of improvement.
+
+* Learn: Learn something new every day
+
+** What new idea or perspective did I encounter today? 
+
+* Reflect: Reflect and write to think more clearly
+
+** What does today's learning mean for me? 
+
+* Apply: Apply what you know
+
+** Did I do anything to make use of the knowledge I have generated?
+
+* Prepare: Prepare for the future
+
+**  What did I do today that tomorrow me will thank me for?

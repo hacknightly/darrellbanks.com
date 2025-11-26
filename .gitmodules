@@ -1,0 +1,21 @@
+[submodule "themes/cortex"]
+	path = themes/cortex
+	url = https://github.com/jethrokuan/cortex/
+[submodule "themes/paper"]
+	path = themes/paper
+	url = https://github.com/nanxiaobei/hugo-paper
+[submodule "themes/hugo-book"]
+	path = themes/hugo-book
+	url = https://github.com/alex-shpak/hugo-book
+[submodule "themes/hugo-kiera"]
+	path = themes/hugo-kiera
+	url = https://github.com/funkydan2/hugo-kiera.git
+[submodule "themes/hugo-winston-theme"]
+	path = themes/hugo-winston-theme
+	url = https://github.com/zerostaticthemes/hugo-winston-theme
+[submodule "themes/PaperMod"]
+	path = themes/PaperMod
+	url = https://github.com/adityatelange/hugo-PaperMod.git
+[submodule "themes/stack"]
+	path = themes/stack
+	url = https://github.com/CaiJimmy/hugo-theme-stack

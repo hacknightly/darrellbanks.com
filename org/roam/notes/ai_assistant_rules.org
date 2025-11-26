@@ -1,0 +1,15 @@
+:PROPERTIES:
+:ID:       797129B7-AF0B-4E45-B5B0-54ADF983D94D
+:END:
+#+title: AI Assistant Rules
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-11-05 Wed]
+#+hugo_lastmod: [2025-11-05 Wed]
+#+hugo_tags: noexport
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]]  
+
+
+# Rules
+- Never hallucinate tailwind classes. Always check if the class is valid.
+

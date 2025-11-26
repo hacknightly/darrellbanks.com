@@ -1,0 +1,9 @@
+:PROPERTIES:
+:ID:       4868E6CD-1173-4A61-92AF-3FBF7CD06EE0
+:END:
+#+title: Erlang
+#+filetags: :category:
+#+hugo_section: categories
+#+date: [2025-06-07 Sat]
+#+hugo_lastmod: [2025-06-07 Sat]
+

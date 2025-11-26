@@ -1,0 +1,10 @@
+:PROPERTIES:
+:ID:       DAC08F09-73CE-4603-8902-147EAF49B103
+:END:
+#+title: AI
+#+filetags: :category:
+#+hugo_section: categories
+#+date: [2025-05-21 Wed]
+#+hugo_lastmod: [2025-05-21 Wed]
+*Connections*:  
+

@@ -1,0 +1,47 @@
+:PROPERTIES:
+:ID:       480D1587-EEA8-477B-8E04-D2FB3D1F61E7
+:END:
+#+title: Notes on the BEAM
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-06-06 Fri]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+
+* The BEAM Book
+
+** Chapter 1: Understanding ERTS 
+
+*** The Compiler 
+**** can be called directly via erlc <filename> 
+**** can be run from within erl via *c(<filename>)*
+***** or compile:file(<filename>) 
+**** normally outputs a .beam file 
+**** can alternatively output at different intermediate steps ie binary, *to_core*, 'P', 
+***** binary
+****** returns the intermediate format as a term instead of writing it to a file 
+***** *to_core*? 
+****** outputs <filename>.core 
+***** 'P' is preprocessed, after all includes, macros, and conditionals have been evaluated
+****** oupupts <filename>.P 
+**** can pick up the compilation from a later stage, for example from a core file
+***** erlc foo.core 
+**** Has tools like *yeek* and *Yecc* are available when you want to compile your own language to the EVM 
+
+
+*** Processes 
+
+**** A process is an isolated entity where code execution occurs.
+***** has its own address space 
+***** can communicate with other processes through signals and messages 
+***** execution is controlled by a preemptive scheduler
+***** has a default starting heap size of 233 words 
+
+**** Observer
+***** Obsever is a graphical interface for inspecting processes in Erlang 
+***** Can be started with observer:start() 
+***** Is essentially four blocks of memory
+****** a stack 
+****** a heap
+****** a message area
+****** the Process Control Block (PCB)

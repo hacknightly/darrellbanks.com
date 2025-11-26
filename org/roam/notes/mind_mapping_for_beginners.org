@@ -1,0 +1,35 @@
+:PROPERTIES:
+:ID:       591D2142-9E27-46DD-AAB4-3DCB05CADB74
+:END:
+#+title: Mind Mapping for Beginners
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-04-28 Mon]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*: [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]]  
+
+T.R.E.E
+Thought process
+Relationships
+Expressive
+Efficient
+
+
+1. Prepare a list of key terms (this could be in plain text)
+2. Outline the terms (figure out main and sub topics)
+3. Plot the main topics on the pag
+4. Find the thought process (how do the main topics fit together logically
+ How do these key terms relate to each other
+5. Make the map visual for more expressiveness
+
+source: https://www.youtube.com/watch?v=g7j_CoKD1Xs
+
+"Your job as a learner isn't just to take information and document it
+for later, it's to structure information so that your brain can
+process it"
+
+source: https://www.youtube.com/watch?v=gLHqVR6VDUg
+
+q: Which came first, the note or the mind map?
+a: It depends. For brainstorming, mind maps come first. For
+researching, the notes might come first

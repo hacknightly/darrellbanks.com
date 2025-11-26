@@ -1,0 +1,82 @@
+:PROPERTIES:
+:ID:       42ECECDD-5F4B-484B-AFD4-6FDF5B6EA87B
+:END:
+#+title: Notes on Learning Erlang
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-06-07 Sat]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*: [[id:4868E6CD-1173-4A61-92AF-3FBF7CD06EE0][Erlang]] 
+
+* Starting Out
+
+** The Shell 
+
+*** Start with *erl*
+
+*** User switch command is ^G
+
+** Variables 
+
+*** Must start with an uppercase (because atoms are lowercase) 
+
+*** Operate on pattern matching under the hood 
+
+**** ie One = 1. One = 2 + 1.
+> exception error: no match of right hand side value 3
+
+** Atoms
+
+*** Must start with a lowercase (because variables are uppercase) 
+
+*** Can be enclosed in single quotes if not starting with an uppercase, or if it contains other alphanumeric characters other than _ or @.
+
+*** Should never be generated dynamically, as they aren't garbage collected and will pile up in memory.
+
+** Boolean Algebra and Comparison Operators
+
+*** true, false, and, or, xor, not
+
+*** 5 *=:=* 5 -> true
+
+*** 1 *=*:= 0 -> false
+
+*** 1 *=/=* 0 -> true
+
+*** 5 *=:=* 5.0 -> false
+
+*** 5 == 5.0 -> true
+
+*** 5 /= 5.0 -> false
+
+** Tuples
+
+*** PreciseTemperature = {celsius, 23.212}.
+
+** Lists
+
+*** Can store multiple types
+
+**** [1, 2, 3, {numbers, [4,5,6]}, 5.34, atom].
+
+*** Watch out! Strings are lists of numbers
+
+**** [97, 98, 99] -> "abc" 
+
+**** Erlang will print lists of numbers as numbers only when at least one of them could not also represent a letter
+
+*** List concatenation is done with *++*
+
+**** [1,2] ++ [3,4] = [1, 2, 3, 4]
+
+*** List removal is done with *--*
+
+**** [1,2,3,4] -- [3,4] -> [1,2] 
+
+*** List Comprehension
+
+**** [2*N || N <- [1,2,3,4]] 
+
+** Modules
+
+*** Modules are declared with the *-module(<name>)* syntax 

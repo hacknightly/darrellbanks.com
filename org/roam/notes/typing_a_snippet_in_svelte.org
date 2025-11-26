@@ -1,0 +1,21 @@
+:PROPERTIES:
+:ID:       A7E65D6A-3E25-497A-8F2D-D694D32D5EB8
+:END:
+#+title: Typing A Snippet in Svelte
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-10-30 Thu]
+#+hugo_lastmod: [2025-11-26 Wed]
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+
+
+```
+import type { Snippet } from "svelte";
+
+interface Props {
+	children?: Snippet;
+}
+```
+
+
+
