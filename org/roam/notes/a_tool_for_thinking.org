@@ -4,6 +4,7 @@
 #+title: A Tool For Thinking
 #+filetags: :notes:
 #+hugo_section: notes
+#+hugo_front_matter_format: yaml
 #+date: [2025-10-21 Tue]
 #+hugo_lastmod: [2025-11-26 Wed]
 *Connections*:  

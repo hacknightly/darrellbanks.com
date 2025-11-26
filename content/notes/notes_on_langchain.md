@@ -1,11 +1,11 @@
-+++
-title = "Notes on Langchain"
-author = ["Darrell Banks"]
-date = 2025-06-12T00:00:00-06:00
-lastmod = 2025-11-26T00:00:00-07:00
-tags = ["notes"]
-draft = false
-+++
+---
+title: "Notes on Langchain"
+author: ["Darrell Banks"]
+date: 2025-06-12T00:00:00-06:00
+lastmod: 2025-11-26T00:00:00-07:00
+tags: ["notes"]
+draft: false
+---
 
 **Connections**:  [Software Engineering]({{< relref "../categories/software_engineering.md" >}})
 

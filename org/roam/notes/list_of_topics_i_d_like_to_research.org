@@ -4,6 +4,7 @@
 #+title: List of Topics I'd Like to Research
 #+filetags: :notes:
 #+hugo_section: notes
+#+hugo_front_matter_format: yaml
 #+date: [2025-05-07 Wed]
 #+hugo_lastmod: [2025-11-26 Wed]
 *Connections*:  [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]] 

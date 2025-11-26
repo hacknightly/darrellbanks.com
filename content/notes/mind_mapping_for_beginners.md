@@ -1,11 +1,11 @@
-+++
-title = "Mind Mapping for Beginners"
-author = ["Darrell Banks"]
-date = 2025-04-28T00:00:00-06:00
-lastmod = 2025-11-26T00:00:00-07:00
-tags = ["notes"]
-draft = false
-+++
+---
+title: "Mind Mapping for Beginners"
+author: ["Darrell Banks"]
+date: 2025-04-28T00:00:00-06:00
+lastmod: 2025-11-26T00:00:00-07:00
+tags: ["notes"]
+draft: false
+---
 
 **Connections**: [Thinking]({{< relref "../categories/thinking.md" >}})
 

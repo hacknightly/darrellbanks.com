@@ -1,11 +1,11 @@
-+++
-title = "List of Topics I'd Like to Research"
-author = ["Darrell Banks"]
-date = 2025-05-07T00:00:00-06:00
-lastmod = 2025-11-26T00:00:00-07:00
-tags = ["notes"]
-draft = false
-+++
+---
+title: "List of Topics I'd Like to Research"
+author: ["Darrell Banks"]
+date: 2025-05-07T00:00:00-06:00
+lastmod: 2025-11-26T00:00:00-07:00
+tags: ["notes"]
+draft: false
+---
 
 **Connections**:  [Thinking]({{< relref "../categories/thinking.md" >}})
 

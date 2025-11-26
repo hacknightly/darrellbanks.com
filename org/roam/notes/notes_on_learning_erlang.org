@@ -4,6 +4,7 @@
 #+title: Notes on Learning Erlang
 #+filetags: :notes:
 #+hugo_section: notes
+#+hugo_front_matter_format: yaml
 #+date: [2025-06-07 Sat]
 #+hugo_lastmod: [2025-11-26 Wed]
 *Connections*: [[id:4868E6CD-1173-4A61-92AF-3FBF7CD06EE0][Erlang]] 
