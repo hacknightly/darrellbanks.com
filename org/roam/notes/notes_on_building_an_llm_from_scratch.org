@@ -37,8 +37,8 @@
 **** There are word, sentence, paragraph, and whole document embeddings. Sentence and paragraph are useful for RAG 
 **** Forget 3 dimensions, systems like GPT-3 use 12,288 dimensions. What does that even mean? 
 *** Tokenizing Text 
-**** <|unk|> tokens are used to indicate words that aren't in the vocab 
-**** <|endoftext|> tokens are used to indicate the beginning of a new text source when multiple sources are used
+**** special tokens like "unk "are used to indicate words that aren't in the vocab 
+**** special tokens like "endoftext" are used to indicate the beginning of a new text source when multiple sources are used
 **** BPE or "Byte Pair Encoding" is a commonly used, sophisticated tokenization scheme that can be installed with the [[https://github.com/openai/tiktoken][tiktoken]] package  
 - Data Sampling With a Sliding Window
   - [LLMs] _learn_ to predict one word at a time 
@@ -51,7 +51,7 @@ target word is _underlined_
 *** The last step in preparing the input text for an LLM is to convert the token IDs into embedding vectors 
 **** Step 1: Initialize the vectors with random weights 
 ***** A continuous vector representation is necessary because LLMs like GPT are deep neural networks trained with the backpropagation algorithm. 
-** Summary
+** Chapter 2 Summary
 - LLMs require textual data to be converted into numerical representations known as vectors, since they can't process raw text. 
 - Embeddings transform discrete data like words or images into continuous vector spaces, making them compatible with NNs 
 - As the first step, raw text is broken into tokens, which can be words or characters. Then, the tokens are converted into integer representations, termed token IDs 
@@ -61,4 +61,4 @@ target word is _underlined_
 - Embedding layers in PyTorch function as a lookup operation, retrieving vectors corresponding to token IDs. The resulting embedding vectors provide continuous representations of tokens 
 - Absolute or relative positional embeddings are created to augment the LLMs lack of ability to understand a token's position in a sequence. OpenAIs models use absolute positional embeddings.
 
-* Coding Attention Mechanisms 
+* Chapter 3: Coding Attention Mechanisms 
