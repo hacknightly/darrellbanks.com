@@ -51,7 +51,7 @@ target word is _underlined_
 *** The last step in preparing the input text for an LLM is to convert the token IDs into embedding vectors 
 **** Step 1: Initialize the vectors with random weights 
 ***** A continuous vector representation is necessary because LLMs like GPT are deep neural networks trained with the backpropagation algorithm. 
-- Chapter 2 Summary
+* Chapter 2 Summary
 - LLMs require textual data to be converted into numerical representations known as vectors, since they can't process raw text. 
 - Embeddings transform discrete data like words or images into continuous vector spaces, making them compatible with NNs 
 - As the first step, raw text is broken into tokens, which can be words or characters. Then, the tokens are converted into integer representations, termed token IDs 
