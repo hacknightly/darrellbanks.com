@@ -7,7 +7,7 @@
 #+hugo_front_matter_format: yaml
 #+date: [2025-06-06 Fri]
 #+hugo_lastmod: [2025-11-26 Wed]
-*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] [[id:4868E6CD-1173-4A61-92AF-3FBF7CD06EE0][Erlang]] 
 
 * The BEAM Book
 

@@ -15,23 +15,19 @@ the four steps as a continuous loop of improvement.
 
 ## Learn: Learn something new every day {#learn-learn-something-new-every-day}
 
-
-### What new idea or perspective did I encounter today? {#what-new-idea-or-perspective-did-i-encounter-today}
+-   What new idea or perspective did I encounter today?
 
 
 ## Reflect: Reflect and write to think more clearly {#reflect-reflect-and-write-to-think-more-clearly}
 
-
-### What does today's learning mean for me? {#what-does-today-s-learning-mean-for-me}
+-   What does today's learning mean for me?
 
 
 ## Apply: Apply what you know {#apply-apply-what-you-know}
 
-
-### Did I do anything to make use of the knowledge I have generated? {#did-i-do-anything-to-make-use-of-the-knowledge-i-have-generated}
+-   Did I do anything to make use of the knowledge I have generated?
 
 
 ## Prepare: Prepare for the future {#prepare-prepare-for-the-future}
 
-
-### What did I do today that tomorrow me will thank me for? {#what-did-i-do-today-that-tomorrow-me-will-thank-me-for}
+-   What did I do today that tomorrow me will thank me for?

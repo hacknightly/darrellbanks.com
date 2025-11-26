@@ -7,7 +7,7 @@ tags: ["notes"]
 draft: false
 ---
 
-**Connections**: [Software Engineering]({{< relref "../categories/software_engineering.md" >}})
+**Connections**: [Software Engineering]({{< relref "../categories/software_engineering.md" >}}) [Erlang]({{< relref "../categories/erlang.md" >}})
 
 
 ## The BEAM Book {#the-beam-book}
