@@ -12,10 +12,8 @@
 * Chapter 1: Understanding Large Language Models
  input text -> tokenize text -> token ids -> token embeddings -> GPT decoder only transformer -> postprocessing steps -> output 
 
-** The "large" in large language models refers to the number of
-   parameters
-** The first step in creating an LLM is to train it on a large corpus
-   of text data, sometimes referred to as "raw" text
+- The "large" in large language models refers to the number of parameters
+- The first step in creating an LLM is to train it on a large corpus of text data, sometimes referred to as "raw" text
 ** LLM pretraining does not require labeled data, and instead uses
    self-supervised learning where the model generates its own labels.
    The "labels" come frome the structure of the data itself
