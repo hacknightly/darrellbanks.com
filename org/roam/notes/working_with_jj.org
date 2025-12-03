@@ -1,0 +1,32 @@
+:PROPERTIES:
+:ID:       D40C2EC6-7518-47B6-A5D6-7A41BDD1FCCB
+:END:
+#+title: Working with jj
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-11-27 Thu]
+#+hugo_lastmod: [2025-11-28 Fri]
+#+hugo_tags: noexport
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+
+* Letting go of old ways
+
+I have been using git for a long time.
+
+Git is notably complex.
+
+I'm always interested in learning new ways to do things, especially if
+they promise to simplify my workflow.
+
+* Things I learned along the way
+ - There are two commits in the status; the parent commit and the
+   working copy
+ - Changing the working copy will cause it to automatically be amended by the next
+   jj command
+ - the working copy is an actual commit, not a seperate concept 
+   waiting to become a commit
+ - A change is a commit that can evolve, while keeping a stable
+   identifier. The change id will remain the same, but if you update
+   files the commit hash will update.
+ - to untrach a file, use jj file `untrack` and add it to .gitignore
+ - gives you the same ability to craft artisanal, beautiful commits that have exactly what you want in them. But it doesn't need an index to do it.

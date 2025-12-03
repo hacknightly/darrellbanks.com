@@ -1,0 +1,17 @@
+:PROPERTIES:
+:ID:       375B7A89-496A-4C3F-AF70-96468A840D83
+:END:
+#+title: I Keep Making Mistakes
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-12-03 Wed]
+#+hugo_lastmod: [2025-12-03 Wed]
+
+[[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]]
+[[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]]
+
+And that's perfectly fine. Mistakes are the only way to learn, grow,
+and move forward. I always try to keep in mind a favorite quote of
+mine:
+
+> Your next move is more important than your last mistake.

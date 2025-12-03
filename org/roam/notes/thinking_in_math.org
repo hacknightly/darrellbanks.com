@@ -1,0 +1,30 @@
+:PROPERTIES:
+:ID:       C3EFA82C-5CD2-4145-93C6-FD54E51480B7
+:END:
+#+title: Thinking In Math
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-12-03 Wed]
+#+hugo_lastmod: [2025-12-03 Wed]
+*Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 
+
+
+I'm currently practicing mathematics recreationally, and can feel the
+impact it's having on the way I approach problems in my day job as a
+software engineer.
+
+I came across an interesting article[1] which talks about how
+programming languages help us represent problems, where mathematics
+lets us reason about the problem itself, solve the problem, and then
+choose an appropriate representation. Programming is for
+implementation, mathematics is for theory.
+
+As I meditate more on this, I'll be looking for more ways to
+incorporate mathematical thinking into my problem solving approaches
+at work.
+
+I'm torturing myself for fun by revisiting math from the ground up, I
+may as well find a practical use for the new knowledge.
+
+[1] https://www.jmeiners.com/think-in-math/
+
