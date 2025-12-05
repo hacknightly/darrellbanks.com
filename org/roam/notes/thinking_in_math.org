@@ -4,6 +4,7 @@
 #+title: Thinking In Math
 #+filetags: :notes:
 #+hugo_section: notes
+#+hugo_front_matter_format: yaml
 #+date: [2025-12-03 Wed]
 #+hugo_lastmod: [2025-12-03 Wed]
 *Connections*: [[id:A834A3C3-52B0-45AF-A179-8E9B487859DF][Software Engineering]] 

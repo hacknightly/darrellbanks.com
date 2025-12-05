@@ -4,6 +4,7 @@
 #+title: The I/O Buses of Intelligence
 #+filetags: :notes:
 #+hugo_section: notes
+#+hugo_front_matter_format: yaml
 #+date: [2025-12-03 Wed]
 #+hugo_lastmod: [2025-12-03 Wed]
 [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]]  

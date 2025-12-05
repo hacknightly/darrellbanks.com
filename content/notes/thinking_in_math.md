@@ -1,11 +1,11 @@
-+++
-title = "Thinking In Math"
-author = ["Darrell Banks"]
-date = 2025-12-03T00:00:00-07:00
-lastmod = 2025-12-03T00:00:00-07:00
-tags = ["notes"]
-draft = false
-+++
+---
+title: "Thinking In Math"
+author: ["Darrell Banks"]
+date: 2025-12-03T00:00:00-07:00
+lastmod: 2025-12-03T00:00:00-07:00
+tags: ["notes"]
+draft: false
+---
 
 **Connections**: [Software Engineering]({{< relref "../categories/software_engineering.md" >}})
 
