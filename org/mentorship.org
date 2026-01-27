@@ -1,0 +1,63 @@
+* What have you been working on? Are you working on stuff you care about?
+** Nick 
+** Jenny
+** Tyler
+* Key things that happened since last time 
+** Nick 
+*** 7/1/2025 
+**** Discovered a problem that is solvable via Site tools 
+**** Hired a new guy and is onboarding
+** Jenny 
+** Tyler 
+* Reflecting on action items 
+** Nick 
+*** 7/1/2025 
+**** Documentation project can wait until we finish technical growth projects
+** Jenny
+** Tyler
+* A challenge you're having
+** Nick 
+*** 7/1/2025 
+**** Wants to be sure that he's keeping up with current tech 
+** Jenny 
+** Tyler 
+* A recent success 
+** Nick 
+*** 7/1/2025 
+**** Site tools work has full buy-in from team 
+** Jenny 
+*** Working with AI 
+*** 1:1 w/ non-tech stake holders 
+** Tyler
+* What areas are you looking to grow in? Specific tech skills? Soft skills?
+** Nick 
+*** 7/1/2025 
+**** General frontend React/Next, not so much RV tech 
+* Action Items
+** Nick 
+*** 7/1/2025
+**** @nick to flesh out site tools tickets 
+**** @darrell to get HL running and site tools dev ready
+
+
+* General Notes
+** The best mentorships are two-way streets
+*** Always feel free to reach out between meetings for reviews or catch up
+*** What is an area you'd like to grow in over the next month? Lets focus on that 
+**** What does it mean to be staff 
+**** How to prepare yourself 
+**** Ideas / techniques for buy-in 
+***** Techniques that other people leverage to get it to work 
+** Teach them how to recognize their skills vs knowledge. Seek knowledge, practice skills. 
+** Evaluating progress: What criteria would help us determine how efficient our mentorship relationship is? 
+** What might make this challenging for us? 
+*** I'm relatively new to mentoring 
+*** Our mentorship "framework" isn't well established 
+*** Mentorship might be harder across products 
+** As a mentor
+*** Aim to learn something new
+*** Help mentees come up with multiple solutions and articluate tradeoffs 
+*** Tailor approach to technical vs non-technical problems 
+*** A mentor is someone who has skills that a mentee desires to have and the time and willingness to help the mentee attain them. It's not really more complicated that. 
+*** In some situations, we discuss what it takes to get to the next level in the person's career. Throughout the mentoring sessions, I try to spot opportunities to help them grow faster in their career 
+

@@ -1,0 +1,24 @@
+:PROPERTIES:
+:ID:       6400448E-3662-41A4-A97E-A2C454612DC7
+:END:
+#+title: On the Emergent Nature of Ideas
+#+filetags: :notes: :thinking:
+#+hugo_section: notes
+#+date: [2025-05-02 Fri]
+#+hugo_lastmod: [2025-05-02 Fri]
+*Connections*: [[id:2B73C5AA-FBF8-4324-B1D4-DD5F8644F382][Thinking]] 
+
+I recently read an article titled "How to live an intellectually rich
+life" which touched on the topic of Conway's game of life and how it
+can be an analogy for how we fill our lives with ideas.
+
+If we have too few ideas, they die, similar to the cells in the game
+of life. However, if we have too many ideas of the same kind, we just
+recycle through the ideas, essentially becoming the oscillators of the
+game of life.
+
+In short - our ideas need to be diverse, abundant, and documented in a way that's
+accessible for us, not others.
+
+
+source: https://utsavmamoria.substack.com/p/how-to-live-an-intellectually-rich

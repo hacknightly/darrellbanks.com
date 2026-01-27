@@ -1,0 +1,26 @@
+[
+	{
+        "id": 1,
+		"name": "Github",
+        "username": "ricocc",
+		"image": "/assets/social/social-github.jpg",
+		"url": "https://github.com/ricocc/"
+	},
+
+    {
+        "id": 8,
+		"name": "Linkedin",
+    "username": "Darrell Banks",
+		"image": "/assets/social/social-linkedin.png",
+		"url": "https://www.linkedin.com/in/darrell-banks-13058621/"
+	  },
+
+    {
+        "id": 9,
+		"name": "Email",
+    "username": "hacknightly",
+		"image": "/assets/social/social-email.jpg",
+		"url": "mailto:hacknightly@gmail.com"
+	  }
+
+]

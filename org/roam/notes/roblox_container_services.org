@@ -1,0 +1,16 @@
+:PROPERTIES:
+:ID:       51F8BAA5-10CE-4BAA-9CBA-FA3D5025075E
+:END:
+#+title: Roblox Container Services
+#+filetags: :notes: :roblox: :lua:
+#+hugo_section: notes
+#+date: [2025-04-28 Mon]
+#+hugo_lastmod: [2025-04-28 Mon]
+*Link*: [[id:6A5495DD-6F27-4D59-96F9-CCD8C267095D][Engineering]] 
+
+
+Roblox allows game creators to run custom Lua scripts to modify
+behavior. These scripts must run in a [[https://create.roblox.com/docs/tutorials/first-experience#organize-scripts][container service]], which either
+runs on the server or the client depending on it's =RunContext= property
+
+source: https://create.roblox.com/docs/tutorials/first-experience#organize-scripts 

@@ -1,0 +1,8 @@
+:PROPERTIES:
+:ID:       A834A3C3-52B0-45AF-A179-8E9B487859DF
+:END:
+#+title: Software Engineering
+#+filetags: :category: :engineering:
+#+hugo_section: categories 
+#+date: [2025-04-25 Fri]
+#+hugo_lastmod: [2025-04-25 Fri]

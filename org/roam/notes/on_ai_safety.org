@@ -1,0 +1,13 @@
+:PROPERTIES:
+:ID:       10A2B249-0183-4810-8793-E3C47EDAAF64
+:END:
+#+title: On AI Safety
+#+filetags: :notes:
+#+hugo_section: notes
+#+date: [2025-05-21 Wed]
+#+hugo_lastmod: [2025-05-21 Wed]
+#+hugo_tags: noexport
+*Connections*: [[id:DAC08F09-73CE-4603-8902-147EAF49B103][AI]] 
+
+* Companies might not want to share sensitive data, and will instead choose to build custom built LLMs in-house
+

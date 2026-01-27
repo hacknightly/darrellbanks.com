@@ -1,0 +1,58 @@
+[
+	{
+		"dates": "Aug 2025 · Present",
+		"role": "Principal Software Engineer",
+		"company": "RVO Health",
+		"description": "Architecting scalable healthcare applications with React and Next.js. Leading AI-integrated UX initiatives and mentoring engineers through code reviews and technical design sessions.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%234f46e5'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='16' font-weight='600'%3ERVO%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "May 2021 · Aug 2025",
+		"role": "Staff Software Engineer",
+		"company": "RVO Health",
+		"description": "Built and maintained frontend infrastructure for healthcare platforms, championing UI/UX improvements and HIPAA-compliant implementations.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%234f46e5'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='16' font-weight='600'%3ERVO%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Oct 2025 · Present",
+		"role": "Founder",
+		"company": "Ink.sh",
+		"description": "Solo engineer & founder building developer tools and experiences.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23ec4899'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3EInk%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Jan 2023 · Present",
+		"role": "Founder",
+		"company": "Changeset.io",
+		"description": "Empowering velocity-minded engineering teams through pull request automation.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%2310b981'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3ECS%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Sep 2019 · May 2021",
+		"role": "Lead Software Engineer",
+		"company": "InVision",
+		"description": "Built the world's greatest design & prototyping software using React, Angular, Node.js, Golang, and Docker.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23f43f5e'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3EIV%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Jul 2017 · Sep 2019",
+		"role": "Lead Software Engineer",
+		"company": "Weedmaps",
+		"description": "Lead frontend engineer using Angular, React, MobX, and Next.js to champion social change and help good people find the best medicine.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%2322c55e'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3EWM%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Dec 2015 · Jul 2017",
+		"role": "Senior Software Engineer",
+		"company": "InVision",
+		"description": "Golang API engineering with contributions to the React and Angular front end.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23f43f5e'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3EIV%3C/text%3E%3C/svg%3E"
+	},
+	{
+		"dates": "Jul 2014 · Dec 2015",
+		"role": "Full-Stack Web Developer",
+		"company": "SolidFire (NetApp)",
+		"description": "Web development working with Angular.js for enterprise storage solutions.",
+		"logo": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='48' height='48' viewBox='0 0 48 48'%3E%3Ccircle cx='24' cy='24' r='24' fill='%23f97316'/%3E%3Ctext x='24' y='29' text-anchor='middle' fill='white' font-family='system-ui' font-size='18' font-weight='600'%3ESF%3C/text%3E%3C/svg%3E"
+	}
+]
