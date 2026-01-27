@@ -98,7 +98,7 @@ const filtered = headings.filter(h => h.depth <= 3);
           data-aos-delay="200"
           data-aos-duration="500"
           data-aos-once="true"
-        >"Together, we can create a better internet <3"</p>
+        >"Together, we can create a better internet"</p>
         <!-- <div class="w-full border-b-1 border-dashed border-b-gray-200 dark:border-b-neutral-700 mt-4 mb-8"></div> -->
 
         <div
@@ -109,9 +109,7 @@ const filtered = headings.filter(h => h.depth <= 3);
           data-aos-once="true"
         >
              <div class="social-list flex flex-wrap gap-2 items-center justify-start mt-6 mb-8">
-                {social
-                  .filter(item => item.isShow !== false)
-                  .map((item, index) => (
+                {social.map((item, index) => (
                     <a
                       href={item.url}
                       target="_blank"
