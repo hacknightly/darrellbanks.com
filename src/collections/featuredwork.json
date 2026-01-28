@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Ink.sh",
-		"description": "An infinite canvas for continous learning",
+		"description": "An infinite canvas for continuous learning",
 		"tags": ["Wikipedia", "Learning", "Quiz", "Flashcard"],
 		"image": "/assets/works/ink.png",
 		"video": "/assets/works/ink.mp4",
@@ -10,7 +10,7 @@
 	},
 	{
 		"name": "Changeset",
-		"description": "Accelerating Pull Requests for Engineering Teams",
+		"description": "Accelerating pull requests for velocity-driven engineering teams",
 		"tags": ["Tools", "Github", "Automation"],
 		"image": "/assets/works/changeset.png",
 		"video": "/assets/works/changeset.mp4",
