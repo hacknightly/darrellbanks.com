@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       EB58EEFB-C6D9-4535-8E7E-3478A45D7F02
+:END:
+#+title: Writing
+#+filetags: :category:
+#+hugo_section: categories
+#+hugo_front_matter_format: yaml
+#+date: [2026-05-05 Tue]
+#+hugo_lastmod: [2026-05-05 Tue]
+*Connections*:  
+

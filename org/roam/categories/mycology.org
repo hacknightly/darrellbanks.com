@@ -1,0 +1,11 @@
+:PROPERTIES:
+:ID:       D3B3EB6F-150F-477D-ACBD-5A864B03CCA6
+:END:
+#+title: Mycology
+#+filetags: :category:
+#+hugo_section: categories
+#+hugo_front_matter_format: yaml
+#+date: [2026-05-06 Wed]
+#+hugo_lastmod: [2026-05-06 Wed]
+*Connections*:  
+

@@ -1,40 +1,40 @@
 ## 📖  Description Of Changes
- [DAP-100](https://rvohealth.atlassian.net/browse/DAP-100)
 
- This PR introduces an amazing feature that is going to change your life!
+[SP-2703](https://linear.app/assured/issue/SP-2702/change-moimor-failure-callout-to-warning)
+
+This PR introduces a warning to the moi/mor complete step whenever the shop is unlisted and the ISA Outcome Submission returns no errors
 
 ## 📦  New Packages
-[Left Pad](https://www.npmjs.com/package/left-pad)
+
+n/a
 
 ## 📓  Notes
 
-There are a few things you should know about this PR and what it does:
-
-- This note
-- That note
-- And thus ....
+- A new mechanism was added (`getUnlistedShopWarningCallout`) to return the data necessary for hydrating the warning component
 
 
 ## 🖼️   Relevant Screenshots
 
-### Fill Murray
-![fill-murray](https://www.fillmurray.com/640/360)
+### Warning in step
+
+![PixelSnap_2026-04-02_at_11.57.06_2x](/uploads/14a0c6fd1a9abf138893d3c88381829b/PixelSnap_2026-04-02_at_11.57.06_2x.png){width=394 height=600}
 
 ## 👩‍🔬  How To Test
-- [ ] Go to this URL
-- [ ] Click this button
-- [ ] Verify that you see the alert "hello world"
+- [ ] Ensure the `unlisted-shop-improvements` flag is on
+- [ ] Go through MOI/MOR in SK with a repair intent, and add an unlisted shop
+- [ ] Verify that you see the warning in the MOI/MOR completed step
 
 ## ✅  Checklist
 
-- [ ] Include JIRA issue key in Pull Request's title (e.g. `[DLP-100] Pull Request Title`)
-- [ ] Update related docs
-- [ ] Add relevant tests
-- [ ] Include link to JIRA issue above description
-- [ ] Describe changes
-- [ ] Add relevant screenshots
-- [ ] Add testing steps
-- [ ] Add a relevant giphy
+- [x] Include Linear issue key in Pull Request's title (e.g. `[SP-100] Pull Request Title`)
+- [x] Update related docs
+- [x] Add relevant tests
+- [x] Include link to Linear issue above description
+- [x] Describe changes
+- [x] Add relevant screenshots
+- [x] Add testing steps
+- [x] Add a relevant giphy
 
-##  💖  How Does This PR Make Me Feel?
- ![good](https://media.giphy.com/media/3XR0chfiSTtAI/giphy.gif)
+##  💖  How Does This MR Make Me Feel?
+
+![cool](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTQ2YXAwNjdvaWRycDJhaWx2YWI5d2JramlodHBvY3Q5bGRnM3R0cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xjZtu4qi1biIo/giphy.gif)

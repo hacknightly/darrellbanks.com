@@ -1,0 +1,12 @@
+* TODO Look into observability doc [[https://assured-claims.slack.com/archives/D0B572MB14Z/p1783634434991899][discussed with John]] 
+* TODO Use the D, G, and B strings for your major triads.
+It’s why the guitar is tuned the way it is. I started seeing the
+guitar as three sets of strings. E & A are bass strings, D, G & B
+strings are for chords, and E is a melodic string. Personally, seeing
+the fingerboard this way changed my playing in a big way, and I had
+played for decades before I learned that.
+* TODO read up on [[https://nexusjs.org][Nexus code generation]] 
+* TODO Look into Assured FDE (forward deployed eng) role, as it would be nice to sit closer to PGR reps
+* TODO Bird songs as musical study 
+* TODO Look into making an Assured devtools that shows things like current flags, current state, policy etc.. 
+* Scott Mishoe guitar
